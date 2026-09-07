@@ -747,6 +747,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Convert CSV to JSON and JSON to CSV in your browser. Quoted fields, custom delimiters, header row and number/boolean detection. Nothing uploaded."
+    },
+    {
+      "slug": "image-to-base64",
+      "name": "Image to Base64",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Convert an image to a Base64 data URI for HTML, CSS or Markdown, or decode a data URI back to a downloadable image. The file never leaves your browser."
     }
   ]
 }
