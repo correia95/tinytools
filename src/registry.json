@@ -648,6 +648,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Strong random passwords made in your browser with the secure random generator. Length, character types, entropy meter, batch mode. Nothing stored."
+    },
+    {
+      "slug": "recipe-scaler",
+      "name": "Recipe Scaler",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Scale a recipe up or down by servings or a multiplier. Handles fractions, grams, cups and ranges."
     }
   ]
 }
