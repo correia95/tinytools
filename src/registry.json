@@ -28,6 +28,7 @@
     { "slug": "minesweeper", "name": "Minesweeper", "category": "Games", "action": "Play", "featured": true, "launched": "2026-09-07", "description": "The classic game — beginner to expert, best-time tracking, and a new shared board every day." },
     { "slug": "paint-calculator", "name": "Paint Calculator", "category": "Construction", "action": "Calculate", "featured": false, "launched": "2026-09-07", "description": "How many litres and tins of paint a room or wall needs, after doors, windows and coats." },
     { "slug": "word-counter", "name": "Word Counter", "category": "Tools", "action": "Open", "featured": true, "launched": "2026-09-07", "description": "Live word and character counts, reading time, readability scores and your most-used words. Text never leaves your browser." },
-    { "slug": "regex-tester", "name": "Regex Tester", "category": "Tools", "action": "Try it", "featured": false, "launched": "2026-09-07", "description": "Test regular expressions with live match highlighting, capture groups and a replace preview. JavaScript RegExp." }
+    { "slug": "regex-tester", "name": "Regex Tester", "category": "Tools", "action": "Try it", "featured": false, "launched": "2026-09-07", "description": "Test regular expressions with live match highlighting, capture groups and a replace preview. JavaScript RegExp." },
+    { "slug": "percentage-calculator", "name": "Percentage Calculator", "category": "Tools", "action": "Calculate", "featured": true, "launched": "2026-09-07", "description": "Every everyday percentage — X% of a number, percentage change, adding or taking off a percentage — with the working shown." }
   ]
 }
