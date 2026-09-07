@@ -414,6 +414,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "When to go to bed or wake up so you rise at the end of a 90-minute sleep cycle, not the middle of one."
+    },
+    {
+      "slug": "dice-roller",
+      "name": "Dice Roller",
+      "category": "Games",
+      "action": "Roll",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Roll d20, 2d6+3, 4d6kh3 and any dice notation, with advantage/disadvantage, a history and fair secure-random results."
     }
   ]
 }
