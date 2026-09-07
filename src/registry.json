@@ -837,6 +837,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Encode text to HTML entities or decode entities back to text — minimal, named, or full numeric (dec/hex). With a reference table."
+    },
+    {
+      "slug": "text-sorter",
+      "name": "Text Sorter",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Sort a list of lines alphabetically, numerically, by length or naturally. Remove blanks and duplicates, trim, shuffle, change case."
     }
   ]
 }
