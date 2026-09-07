@@ -729,6 +729,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Translate text to Morse code and back, then play it as audio at any speed with an adjustable tone. International standard, with a code chart."
+    },
+    {
+      "slug": "subnet-calculator",
+      "name": "Subnet Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "IPv4 CIDR subnet calculator: network, broadcast, usable host range, mask, wildcard, host count, class and reverse-DNS zone, plus subnet splitting."
     }
   ]
 }
