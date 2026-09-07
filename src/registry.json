@@ -666,6 +666,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Work out the hours between a start and end time, minus breaks, as h:mm and decimal hours for a timesheet. Overnight shifts, a weekly timesheet and an optional pay rate with overtime."
+    },
+    {
+      "slug": "hash-generator",
+      "name": "Hash Generator",
+      "category": "Tools",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Generate MD5, SHA-1, SHA-256, SHA-384, SHA-512 and CRC32 hashes of any text or file. Live as you type, hex or Base64, HMAC and a compare box. Nothing is uploaded."
     }
   ]
 }
