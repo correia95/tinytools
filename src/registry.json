@@ -720,6 +720,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Add, subtract, multiply and divide fractions and mixed numbers, with the answer as a fraction, mixed number, decimal and percent, plus the working. Also simplifies and converts."
+    },
+    {
+      "slug": "morse-code-translator",
+      "name": "Morse Code Translator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Translate text to Morse code and back, then play it as audio at any speed with an adjustable tone. International standard, with a code chart."
     }
   ]
 }
