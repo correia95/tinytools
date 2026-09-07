@@ -846,6 +846,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Sort a list of lines alphabetically, numerically, by length or naturally. Remove blanks and duplicates, trim, shuffle, change case."
+    },
+    {
+      "slug": "markdown-table-generator",
+      "name": "Markdown Table Generator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Build a table in a grid, set column alignment, and copy it as Markdown, HTML, CSV or TSV. Paste an existing table to edit it. Live preview."
     }
   ]
 }
