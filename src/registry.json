@@ -675,6 +675,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Generate MD5, SHA-1, SHA-256, SHA-384, SHA-512 and CRC32 hashes of any text or file. Live as you type, hex or Base64, HMAC and a compare box. Nothing is uploaded."
+    },
+    {
+      "slug": "lorem-ipsum-generator",
+      "name": "Lorem Ipsum Generator",
+      "category": "Tools",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Generate lorem ipsum placeholder text — paragraphs, sentences, words or list items, as plain text or ready-to-paste HTML. Regenerate for fresh text."
     }
   ]
 }
