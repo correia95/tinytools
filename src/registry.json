@@ -504,6 +504,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Type your letters, get every word you can make. Blank tiles, pattern filters, sort by length or Scrabble score."
+    },
+    {
+      "slug": "letter-bee",
+      "name": "Letter Bee",
+      "category": "Games",
+      "action": "Play",
+      "featured": true,
+      "launched": "2026-09-07",
+      "description": "A daily seven-letter word puzzle. Make words using the centre letter, find the pangrams, climb the ranks."
     }
   ]
 }
