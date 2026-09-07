@@ -774,6 +774,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "A scientific calculator that evaluates whole expressions — trig, logs, powers, roots, factorial, pi and e — with a degrees/radians switch, Ans key and history."
+    },
+    {
+      "slug": "gradient-generator",
+      "name": "CSS Gradient Generator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Build linear, radial and conic CSS gradients with multiple colour stops and copy the CSS. Live preview, presets and a shareable URL."
     }
   ]
 }
