@@ -558,6 +558,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "How much gravel, sand, topsoil or mulch you need for an area: volume, tonnes and bags, per-material density."
+    },
+    {
+      "slug": "memory-match",
+      "name": "Memory Match",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "The classic card matching game: flip two cards a turn, find every pair. Four sizes, timer, star rating, best scores."
     }
   ]
 }
