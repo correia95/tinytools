@@ -531,6 +531,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Generate v4 and v7 UUIDs (GUIDs) in bulk, with hyphen, case and brace toggles and a version inspector."
+    },
+    {
+      "slug": "markdown-preview",
+      "name": "Markdown Preview",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "A live Markdown editor: type on the left, rendered HTML on the right, copy the HTML. Safe renderer, GFM tables and task lists."
     }
   ]
 }
