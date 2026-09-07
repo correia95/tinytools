@@ -549,6 +549,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Add a few habits, tick them off daily, keep the streak. Dot grid, best streak, 30-day rate. No account, no reminders."
+    },
+    {
+      "slug": "gravel-calculator",
+      "name": "Gravel & Aggregate Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "How much gravel, sand, topsoil or mulch you need for an area: volume, tonnes and bags, per-material density."
     }
   ]
 }
