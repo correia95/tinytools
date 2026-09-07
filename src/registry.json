@@ -513,6 +513,15 @@
       "featured": true,
       "launched": "2026-09-07",
       "description": "A daily seven-letter word puzzle. Make words using the centre letter, find the pangrams, climb the ranks."
+    },
+    {
+      "slug": "hourly-to-salary",
+      "name": "Hourly to Salary Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Convert an hourly wage to an annual salary and back, plus daily, weekly and monthly. Adjustable hours and paid weeks."
     }
   ]
 }
