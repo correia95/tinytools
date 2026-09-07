@@ -405,6 +405,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "A focus timer for the Pomodoro technique: adjustable 25/5/15 focus and break cycle, chime, tab-title countdown and a daily count."
+    },
+    {
+      "slug": "sleep-calculator",
+      "name": "Sleep Calculator",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "When to go to bed or wake up so you rise at the end of a 90-minute sleep cycle, not the middle of one."
     }
   ]
 }
