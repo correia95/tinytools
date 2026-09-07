@@ -31,6 +31,7 @@
     { "slug": "regex-tester", "name": "Regex Tester", "category": "Tools", "action": "Try it", "featured": false, "launched": "2026-09-07", "description": "Test regular expressions with live match highlighting, capture groups and a replace preview. JavaScript RegExp." },
     { "slug": "percentage-calculator", "name": "Percentage Calculator", "category": "Tools", "action": "Calculate", "featured": true, "launched": "2026-09-07", "description": "Every everyday percentage — X% of a number, percentage change, adding or taking off a percentage — with the working shown." },
     { "slug": "car-loan-calculator", "name": "Car Loan Calculator", "category": "Cars", "action": "Calculate", "featured": false, "launched": "2026-09-07", "description": "Car loan repayments with a deposit, trade-in and balloon payment — and exactly what a balloon adds to the total cost." },
-    { "slug": "game-2048", "name": "2048", "category": "Games", "action": "Play", "featured": true, "launched": "2026-09-07", "description": "The classic tile-merging puzzle. Slide, merge, reach 2048 — best-score tracking and your game auto-saves." }
+    { "slug": "game-2048", "name": "2048", "category": "Games", "action": "Play", "featured": true, "launched": "2026-09-07", "description": "The classic tile-merging puzzle. Slide, merge, reach 2048 — best-score tracking and your game auto-saves." },
+    { "slug": "aspect-ratio-calculator", "name": "Aspect Ratio Calculator", "category": "Tools", "action": "Calculate", "featured": false, "launched": "2026-09-07", "description": "Resize dimensions to a ratio, find the ratio of a size, or fit a size inside a box — no distortion." }
   ]
 }
