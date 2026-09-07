@@ -684,6 +684,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Generate lorem ipsum placeholder text — paragraphs, sentences, words or list items, as plain text or ready-to-paste HTML. Regenerate for fresh text."
+    },
+    {
+      "slug": "gpa-calculator",
+      "name": "GPA Calculator",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Work out your term and cumulative GPA from letter grades and credit hours. 4.0, plus/minus and 4.3 scales, plus a target-GPA solver. Saved only in your browser."
     }
   ]
 }
