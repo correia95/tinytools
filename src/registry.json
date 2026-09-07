@@ -567,6 +567,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "The classic card matching game: flip two cards a turn, find every pair. Four sizes, timer, star rating, best scores."
+    },
+    {
+      "slug": "slug-generator",
+      "name": "URL Slug Generator",
+      "category": "Tools",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Turn a title into a clean URL slug: lowercase, hyphenated, accents flattened. Separator and length options, bulk mode."
     }
   ]
 }
