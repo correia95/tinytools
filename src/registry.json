@@ -738,6 +738,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "IPv4 CIDR subnet calculator: network, broadcast, usable host range, mask, wildcard, host count, class and reverse-DNS zone, plus subnet splitting."
+    },
+    {
+      "slug": "csv-json-converter",
+      "name": "CSV to JSON Converter",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Convert CSV to JSON and JSON to CSV in your browser. Quoted fields, custom delimiters, header row and number/boolean detection. Nothing uploaded."
     }
   ]
 }
