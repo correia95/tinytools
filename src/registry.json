@@ -828,6 +828,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Decode a JSON Web Token header and payload, read claims as dates with expiry status, and verify an HMAC signature. Client-side, nothing uploaded."
+    },
+    {
+      "slug": "html-entities",
+      "name": "HTML Entity Encoder & Decoder",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Encode text to HTML entities or decode entities back to text — minimal, named, or full numeric (dec/hex). With a reference table."
     }
   ]
 }
