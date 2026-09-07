@@ -621,6 +621,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "A plain online stopwatch with laps: space to start/stop, L for a lap, split and total times. Accurate in a background tab."
+    },
+    {
+      "slug": "text-diff",
+      "name": "Text Diff",
+      "category": "Tools",
+      "action": "Compare",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Paste two versions of some text and see what changed line by line, with the differing words highlighted."
     }
   ]
 }
