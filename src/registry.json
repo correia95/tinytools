@@ -594,6 +594,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Paste a list of names and split them into random, evenly-sized groups. Choose group count or group size."
+    },
+    {
+      "slug": "discount-calculator",
+      "name": "Discount Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Sale price after one or more discounts, and how much you save. Percentage or fixed amount, stacked or summed, optional tax."
     }
   ]
 }
