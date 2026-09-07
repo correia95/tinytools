@@ -360,6 +360,15 @@
       "featured": true,
       "launched": "2026-09-07",
       "description": "Pretty-print, minify, sort keys and validate JSON — with the line and column of the first error."
+    },
+    {
+      "slug": "case-converter",
+      "name": "Case Converter",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Every text case at once — UPPER, lower, Title, camelCase, snake_case, kebab-case. Click to copy."
     }
   ]
 }
