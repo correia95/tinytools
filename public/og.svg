@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1c1a17" />
+  <text x="90" y="150" font-family="ui-rounded, -apple-system, Segoe UI, sans-serif" font-size="34" font-weight="700" letter-spacing="8" fill="#d2691e">TINY TOOLS</text>
+  <text x="86" y="270" font-family="ui-rounded, -apple-system, Segoe UI, sans-serif" font-size="86" font-weight="800" fill="#faf9f7" letter-spacing="-2">Small tools.</text>
+  <text x="86" y="360" font-family="ui-rounded, -apple-system, Segoe UI, sans-serif" font-size="86" font-weight="800" fill="#faf9f7" letter-spacing="-2">Quick games.</text>
+  <text x="90" y="430" font-family="ui-rounded, -apple-system, Segoe UI, sans-serif" font-size="30" fill="#a29a90">Calculators · converters · daily puzzles · odd little utilities</text>
+  <g font-family="ui-rounded, -apple-system, Segoe UI, sans-serif" font-size="24" font-weight="700">
+    <rect x="90" y="480" width="150" height="46" rx="23" fill="#2c2925"/><text x="118" y="510" fill="#faf9f7">🎮 Games</text>
+    <rect x="256" y="480" width="140" height="46" rx="23" fill="#2c2925"/><text x="284" y="510" fill="#faf9f7">🔧 Tools</text>
+    <rect x="412" y="480" width="160" height="46" rx="23" fill="#2c2925"/><text x="440" y="510" fill="#faf9f7">💸 Finance</text>
+    <rect x="588" y="480" width="240" height="46" rx="23" fill="#2c2925"/><text x="616" y="510" fill="#faf9f7">🧱 Construction</text>
+  </g>
+  <text x="90" y="580" font-family="ui-rounded, -apple-system, Segoe UI, sans-serif" font-size="22" fill="#d2691e">All free · no sign-up · everything runs in your browser</text>
+</svg>
