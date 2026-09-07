@@ -369,6 +369,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Every text case at once — UPPER, lower, Title, camelCase, snake_case, kebab-case. Click to copy."
+    },
+    {
+      "slug": "reaction-time-test",
+      "name": "Reaction Time Test",
+      "category": "Games",
+      "action": "Test yourself",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Wait for green, then click as fast as you can. Five goes, then your best & average vs the human ~273 ms."
     }
   ]
 }
