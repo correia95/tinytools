@@ -810,6 +810,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Shape a CSS cubic-bezier easing curve by dragging two handles, with a live animation preview, overshoot, presets and a shareable URL."
+    },
+    {
+      "slug": "bill-splitter",
+      "name": "Bill Splitter",
+      "category": "Finance",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Split a restaurant or group bill by who ordered what, with tax and tip shared in proportion and a shareable link."
     }
   ]
 }
