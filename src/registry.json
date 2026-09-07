@@ -612,6 +612,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Watch the colours light up, then repeat the sequence — one more each round. The classic light-and-sound memory game."
+    },
+    {
+      "slug": "stopwatch",
+      "name": "Stopwatch",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "A plain online stopwatch with laps: space to start/stop, L for a lap, split and total times. Accurate in a background tab."
     }
   ]
 }
