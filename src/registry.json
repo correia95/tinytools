@@ -37,6 +37,7 @@
     { "slug": "one-rep-max-calculator", "name": "One-Rep Max Calculator", "category": "Sports", "action": "Calculate", "featured": false, "launched": "2026-09-07", "description": "Estimate your 1RM from a real set (Epley, Brzycki and more), plus training weights for every rep range." },
     { "slug": "tile-calculator", "name": "Tile Calculator", "category": "Construction", "action": "Calculate", "featured": false, "launched": "2026-09-07", "description": "How many tiles for a floor or wall — with grout gaps, wastage, whole boxes, and adhesive & grout estimates." },
     { "slug": "random-number-generator", "name": "Random Number Generator", "category": "Tools", "action": "Generate", "featured": false, "launched": "2026-09-07", "description": "Any range, any count, no-repeats and sorting. Crypto-secure and unbiased — nothing is uploaded." },
-    { "slug": "gst-calculator-au", "name": "GST Calculator (Australia)", "category": "Finance", "action": "Calculate", "featured": false, "launched": "2026-09-07", "description": "Add or remove 10% GST, plus an invoice mode that totals line items. The divide-by-11 method explained." }
+    { "slug": "gst-calculator-au", "name": "GST Calculator (Australia)", "category": "Finance", "action": "Calculate", "featured": false, "launched": "2026-09-07", "description": "Add or remove 10% GST, plus an invoice mode that totals line items. The divide-by-11 method explained." },
+    { "slug": "countdown-timer", "name": "Countdown Timer", "category": "Other", "action": "Start one", "featured": true, "launched": "2026-09-07", "description": "Count down to any date and time and share the link — everyone who opens it sees the same live countdown." }
   ]
 }
