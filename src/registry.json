@@ -387,6 +387,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Body mass index from height and weight, with the WHO categories and your healthy weight range. Screening only."
+    },
+    {
+      "slug": "tyre-size-calculator",
+      "name": "Tyre Size Calculator",
+      "category": "Cars",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Compare two tyre sizes: overall diameter change, rolling circumference, speedo and odometer error, and the 3% fitment rule."
     }
   ]
 }
