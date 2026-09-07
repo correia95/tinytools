@@ -396,6 +396,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Compare two tyre sizes: overall diameter change, rolling circumference, speedo and odometer error, and the 3% fitment rule."
+    },
+    {
+      "slug": "pomodoro-timer",
+      "name": "Pomodoro Timer",
+      "category": "Productivity",
+      "action": "Start",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "A focus timer for the Pomodoro technique: adjustable 25/5/15 focus and break cycle, chime, tab-title countdown and a daily count."
     }
   ]
 }
