@@ -450,6 +450,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Binary, octal, decimal and hex in linked live fields, with a clickable bit grid and two-complement at 8-64 bits."
+    },
+    {
+      "slug": "daily-sudoku",
+      "name": "Daily Sudoku",
+      "category": "Games",
+      "action": "Play",
+      "featured": true,
+      "launched": "2026-09-07",
+      "description": "A new Sudoku every day in four difficulties, the same for everyone. Notes, timer, saved progress and streaks."
     }
   ]
 }
