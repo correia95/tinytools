@@ -765,6 +765,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Unix file permission calculator: tick read/write/execute for owner, group and others to get the octal number, ls -l string and chmod command. setuid/setgid/sticky, two-way."
+    },
+    {
+      "slug": "scientific-calculator",
+      "name": "Scientific Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "A scientific calculator that evaluates whole expressions — trig, logs, powers, roots, factorial, pi and e — with a degrees/radians switch, Ans key and history."
     }
   ]
 }
