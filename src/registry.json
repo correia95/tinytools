@@ -783,6 +783,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Build linear, radial and conic CSS gradients with multiple colour stops and copy the CSS. Live preview, presets and a shareable URL."
+    },
+    {
+      "slug": "color-converter",
+      "name": "Color Converter",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Convert a colour between HEX, RGB, HSL and HSV, with alpha and CSS colour names. Picker, sliders and copy in every notation."
     }
   ]
 }
