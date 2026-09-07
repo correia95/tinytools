@@ -468,6 +468,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Length, weight, temperature, volume, area, speed, data and time with exact factors and live results."
+    },
+    {
+      "slug": "roman-numeral-converter",
+      "name": "Roman Numeral Converter",
+      "category": "Tools",
+      "action": "Convert",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Numbers to Roman numerals and back, 1 to 3999, with the breakdown and correction of non-standard forms."
     }
   ]
 }
