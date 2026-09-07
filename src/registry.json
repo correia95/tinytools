@@ -630,6 +630,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Paste two versions of some text and see what changed line by line, with the differing words highlighted."
+    },
+    {
+      "slug": "plate-calculator",
+      "name": "Barbell Plate Calculator",
+      "category": "Sports",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Enter the weight you want on the barbell and see which plates to load on each side, heaviest first. kg or lb."
     }
   ]
 }
