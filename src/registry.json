@@ -495,6 +495,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Pick a colour, choose a harmony, get a five-colour palette. Copy hex codes and share by link."
+    },
+    {
+      "slug": "word-unscrambler",
+      "name": "Word Unscrambler",
+      "category": "Games",
+      "action": "Unscramble",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Type your letters, get every word you can make. Blank tiles, pattern filters, sort by length or Scrabble score."
     }
   ]
 }
