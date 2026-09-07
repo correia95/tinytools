@@ -441,6 +441,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Work out the tip and split the bill between any number of people, with optional rounding. Any currency."
+    },
+    {
+      "slug": "number-base-converter",
+      "name": "Number Base Converter",
+      "category": "Tools",
+      "action": "Convert",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Binary, octal, decimal and hex in linked live fields, with a clickable bit grid and two-complement at 8-64 bits."
     }
   ]
 }
