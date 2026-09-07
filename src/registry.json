@@ -792,6 +792,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Convert a colour between HEX, RGB, HSL and HSV, with alpha and CSS colour names. Picker, sliders and copy in every notation."
+    },
+    {
+      "slug": "box-shadow-generator",
+      "name": "CSS Box Shadow Generator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Build a layered CSS box-shadow — offset, blur, spread, colour, opacity, inset — with a live preview, presets and copyable CSS. Shareable URL."
     }
   ]
 }
