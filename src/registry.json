@@ -585,6 +585,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Estimate daily calorie burn (BMR and TDEE) and a target for a weight goal, with the Mifflin-St Jeor equation."
+    },
+    {
+      "slug": "group-generator",
+      "name": "Random Group Generator",
+      "category": "Tools",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Paste a list of names and split them into random, evenly-sized groups. Choose group count or group size."
     }
   ]
 }
