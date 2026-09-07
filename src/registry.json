@@ -657,6 +657,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Scale a recipe up or down by servings or a multiplier. Handles fractions, grams, cups and ranges."
+    },
+    {
+      "slug": "hours-calculator",
+      "name": "Work Hours Calculator",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Work out the hours between a start and end time, minus breaks, as h:mm and decimal hours for a timesheet. Overnight shifts, a weekly timesheet and an optional pay rate with overtime."
     }
   ]
 }
