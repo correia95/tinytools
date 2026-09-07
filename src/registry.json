@@ -432,6 +432,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Time between two dates in years, months and days plus total days, weeks and working days — and a date add/subtract tool."
+    },
+    {
+      "slug": "tip-calculator",
+      "name": "Tip Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Work out the tip and split the bill between any number of people, with optional rounding. Any currency."
     }
   ]
 }
