@@ -819,6 +819,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Split a restaurant or group bill by who ordered what, with tax and tip shared in proportion and a shareable link."
+    },
+    {
+      "slug": "jwt-decoder",
+      "name": "JWT Decoder",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Decode a JSON Web Token header and payload, read claims as dates with expiry status, and verify an HMAC signature. Client-side, nothing uploaded."
     }
   ]
 }
