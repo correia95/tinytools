@@ -459,6 +459,15 @@
       "featured": true,
       "launched": "2026-09-07",
       "description": "A new Sudoku every day in four difficulties, the same for everyone. Notes, timer, saved progress and streaks."
+    },
+    {
+      "slug": "unit-converter",
+      "name": "Unit Converter",
+      "category": "Tools",
+      "action": "Convert",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Length, weight, temperature, volume, area, speed, data and time with exact factors and live results."
     }
   ]
 }
