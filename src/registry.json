@@ -693,6 +693,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Work out your term and cumulative GPA from letter grades and credit hours. 4.0, plus/minus and 4.3 scales, plus a target-GPA solver. Saved only in your browser."
+    },
+    {
+      "slug": "age-calculator",
+      "name": "Age Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Your exact age in years, months and days from your date of birth, with totals in weeks and hours, the weekday you were born and a countdown to your next birthday."
     }
   ]
 }
