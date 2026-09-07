@@ -477,6 +477,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Numbers to Roman numerals and back, 1 to 3999, with the breakdown and correction of non-standard forms."
+    },
+    {
+      "slug": "fuel-cost-calculator",
+      "name": "Fuel Cost Calculator",
+      "category": "Cars",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "What a trip costs in fuel, from distance, economy and pump price. Metric or MPG, split between passengers."
     }
   ]
 }
