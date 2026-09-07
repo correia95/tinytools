@@ -702,6 +702,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Your exact age in years, months and days from your date of birth, with totals in weeks and hours, the weekday you were born and a countdown to your next birthday."
+    },
+    {
+      "slug": "binary-translator",
+      "name": "Binary Translator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Translate text to binary and binary to text, plus hexadecimal, decimal and octal. Two-way, full Unicode, with a character-by-character table."
     }
   ]
 }
