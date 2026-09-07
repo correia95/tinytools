@@ -486,6 +486,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "What a trip costs in fuel, from distance, economy and pump price. Metric or MPG, split between passengers."
+    },
+    {
+      "slug": "color-palette-generator",
+      "name": "Colour Palette Generator",
+      "category": "Tools",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Pick a colour, choose a harmony, get a five-colour palette. Copy hex codes and share by link."
     }
   ]
 }
