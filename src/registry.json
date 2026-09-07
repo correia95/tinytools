@@ -603,6 +603,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Sale price after one or more discounts, and how much you save. Percentage or fixed amount, stacked or summed, optional tax."
+    },
+    {
+      "slug": "color-memory",
+      "name": "Colour Memory",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Watch the colours light up, then repeat the sequence — one more each round. The classic light-and-sound memory game."
     }
   ]
 }
