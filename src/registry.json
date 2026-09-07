@@ -522,6 +522,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Convert an hourly wage to an annual salary and back, plus daily, weekly and monthly. Adjustable hours and paid weeks."
+    },
+    {
+      "slug": "uuid-generator",
+      "name": "UUID Generator",
+      "category": "Tools",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Generate v4 and v7 UUIDs (GUIDs) in bulk, with hyphen, case and brace toggles and a version inspector."
     }
   ]
 }
