@@ -378,6 +378,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Wait for green, then click as fast as you can. Five goes, then your best & average vs the human ~273 ms."
+    },
+    {
+      "slug": "bmi-calculator",
+      "name": "BMI Calculator",
+      "category": "Sports",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Body mass index from height and weight, with the WHO categories and your healthy weight range. Screening only."
     }
   ]
 }
