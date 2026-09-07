@@ -576,6 +576,15 @@
       "featured": false,
       "launched": "2026-09-07",
       "description": "Turn a title into a clean URL slug: lowercase, hyphenated, accents flattened. Separator and length options, bulk mode."
+    },
+    {
+      "slug": "calorie-calculator",
+      "name": "Calorie Calculator",
+      "category": "Sports",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-07",
+      "description": "Estimate daily calorie burn (BMR and TDEE) and a target for a weight goal, with the Mifflin-St Jeor equation."
     }
   ]
 }
