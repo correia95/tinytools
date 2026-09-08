@@ -855,6 +855,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Build a table in a grid, set column alignment, and copy it as Markdown, HTML, CSV or TSV. Paste an existing table to edit it. Live preview."
+    },
+    {
+      "slug": "margin-calculator",
+      "name": "Margin Calculator",
+      "category": "Finance",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Enter any two of cost, price, gross margin and markup — get the rest, plus profit per unit. Margin vs markup, explained."
     }
   ]
 }
