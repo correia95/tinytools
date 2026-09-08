@@ -918,6 +918,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Simplify a ratio, solve A : B = C : D for a missing value, or scale a ratio. Handles decimals."
+    },
+    {
+      "slug": "grade-calculator",
+      "name": "Grade Calculator",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Your weighted course grade from each assignment, or the score you need on the final exam."
     }
   ]
 }
