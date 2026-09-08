@@ -891,6 +891,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Flip a coin online — heads or tails, cryptographically fair. One coin or 50 at once, with a running tally."
+    },
+    {
+      "slug": "time-duration-calculator",
+      "name": "Time Duration Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Add and subtract durations (1h 30m, 2:15, 90m), or find the time between two clock times."
     }
   ]
 }
