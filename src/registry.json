@@ -936,6 +936,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Write a number in English words — cheque/amount mode, ordinals, British or American style, and reverse."
+    },
+    {
+      "slug": "meta-tags-generator",
+      "name": "Meta Tags Generator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Generate a full HTML head block — SEO, Open Graph, Twitter Card — with a live search and social preview."
     }
   ]
 }
