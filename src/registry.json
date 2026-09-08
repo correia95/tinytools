@@ -954,6 +954,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "The classic word-guessing game — a shared daily word across ten categories, plus unlimited free play."
+    },
+    {
+      "slug": "text-cleaner",
+      "name": "Text Cleaner",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Strip extra line breaks, double spaces, smart quotes, HTML and list markers from pasted text."
     }
   ]
 }
