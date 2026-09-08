@@ -927,6 +927,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Your weighted course grade from each assignment, or the score you need on the final exam."
+    },
+    {
+      "slug": "number-to-words",
+      "name": "Number to Words",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Write a number in English words — cheque/amount mode, ordinals, British or American style, and reverse."
     }
   ]
 }
