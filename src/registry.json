@@ -945,6 +945,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Generate a full HTML head block — SEO, Open Graph, Twitter Card — with a live search and social preview."
+    },
+    {
+      "slug": "hangman",
+      "name": "Hangman",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "The classic word-guessing game — a shared daily word across ten categories, plus unlimited free play."
     }
   ]
 }
