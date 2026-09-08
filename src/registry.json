@@ -882,6 +882,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Convert bytes, KB/MB/GB/TB, binary KiB/MiB/GiB and bits. Shows why a 1 TB drive reads as 931 GB."
+    },
+    {
+      "slug": "coin-flip",
+      "name": "Coin Flip",
+      "category": "Games",
+      "action": "Flip",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Flip a coin online — heads or tails, cryptographically fair. One coin or 50 at once, with a running tally."
     }
   ]
 }
