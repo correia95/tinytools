@@ -963,6 +963,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Strip extra line breaks, double spaces, smart quotes, HTML and list markers from pasted text."
+    },
+    {
+      "slug": "css-clamp-generator",
+      "name": "CSS clamp() Generator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Fluid typography and spacing — two viewport/size points become a clamp() expression, with a live preview."
     }
   ]
 }
