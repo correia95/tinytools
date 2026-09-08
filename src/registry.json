@@ -864,6 +864,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Enter any two of cost, price, gross margin and markup — get the rest, plus profit per unit. Margin vs markup, explained."
+    },
+    {
+      "slug": "px-to-rem-converter",
+      "name": "PX to REM Converter",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Convert between px, rem, em, pt and % for CSS against a base font size. Reference table, click-to-copy."
     }
   ]
 }
