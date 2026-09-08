@@ -981,6 +981,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Turn an SVG into a compact data URI for CSS background-image — URL-encoded and base64, with a preview."
+    },
+    {
+      "slug": "calories-burned-calculator",
+      "name": "Calories Burned Calculator",
+      "category": "Other",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Estimate calories burned from an activity, your body weight and time — 43 activities, MET-based."
     }
   ]
 }
