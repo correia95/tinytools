@@ -972,6 +972,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Fluid typography and spacing — two viewport/size points become a clamp() expression, with a live preview."
+    },
+    {
+      "slug": "svg-url-encoder",
+      "name": "SVG URL Encoder",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Turn an SVG into a compact data URI for CSS background-image — URL-encoded and base64, with a preview."
     }
   ]
 }
