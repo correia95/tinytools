@@ -873,6 +873,15 @@
       "featured": false,
       "launched": "2026-09-08",
       "description": "Convert between px, rem, em, pt and % for CSS against a base font size. Reference table, click-to-copy."
+    },
+    {
+      "slug": "data-size-converter",
+      "name": "Data Size Converter",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-08",
+      "description": "Convert bytes, KB/MB/GB/TB, binary KiB/MiB/GiB and bits. Shows why a 1 TB drive reads as 931 GB."
     }
   ]
 }
