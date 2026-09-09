@@ -1332,6 +1332,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "The classic code-breaking game — crack the hidden colour code from black-and-white peg feedback, with a daily puzzle and adjustable difficulty."
+    },
+    {
+      "slug": "prime-number-checker",
+      "name": "Prime Number Checker",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Is a number prime? Exact check to 10^17 with prime factorization, next/previous prime, count of primes below it and prime families."
     }
   ]
 }
