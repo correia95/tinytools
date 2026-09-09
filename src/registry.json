@@ -1098,6 +1098,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Make a favicon from an emoji, letters or an image — every size, plus the head tags and web manifest."
+    },
+    {
+      "slug": "vat-calculator",
+      "name": "VAT Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Add or remove VAT at any rate, with country presets for the UK, Ireland, Germany, France and more."
     }
   ]
 }
