@@ -1629,6 +1629,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Your cat's age in human years and its life stage, using the AAHA / AAFP feline chart — about 15 for the first year, 24 by the second, then 4 a year. A guide, not veterinary advice."
+    },
+    {
+      "slug": "card-number-validator",
+      "name": "Card Number Validator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Check a card number's Luhn checksum, length and network (Visa, Mastercard, Amex and more), or compute a Luhn check digit. Format check only, runs entirely in your browser."
     }
   ]
 }
