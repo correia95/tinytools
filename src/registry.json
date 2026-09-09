@@ -1134,6 +1134,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Noughts and crosses vs a friend or an AI you can set from easy to unbeatable (minimax)."
+    },
+    {
+      "slug": "quadratic-equation-solver",
+      "name": "Quadratic Equation Solver",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Roots (exact + decimal), discriminant, vertex, factored form and step-by-step working for ax² + bx + c = 0, with a graph."
     }
   ]
 }
