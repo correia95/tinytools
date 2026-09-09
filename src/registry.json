@@ -1152,6 +1152,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Count the significant figures in a number and round to N sig figs or decimal places, with the rules and the working shown."
+    },
+    {
+      "slug": "gcf-lcm-calculator",
+      "name": "GCF & LCM Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Greatest common factor (HCF) and least common multiple of two or more whole numbers, with prime factorisation, the Euclidean algorithm and common factors."
     }
   ]
 }
