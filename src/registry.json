@@ -1116,6 +1116,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "How much mulch, topsoil, compost or gravel you need for a garden bed — bags and bulk."
+    },
+    {
+      "slug": "week-number",
+      "name": "Week Number",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "What ISO 8601 week is it? The current week number, plus the week for any date and a month calendar."
     }
   ]
 }
