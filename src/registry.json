@@ -1638,6 +1638,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Check a card number's Luhn checksum, length and network (Visa, Mastercard, Amex and more), or compute a Luhn check digit. Format check only, runs entirely in your browser."
+    },
+    {
+      "slug": "nato-phonetic-alphabet",
+      "name": "NATO Phonetic Alphabet Translator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Spell text out in Alfa, Bravo, Charlie and read code words back into text, with the full A–Z and 0–9 chart, radio digit words and spoken playback."
     }
   ]
 }
