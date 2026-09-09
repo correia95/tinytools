@@ -1575,6 +1575,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Split your monthly take-home pay into needs, wants and savings with the 50/30/20 rule, then check your real expenses against each target. Adjustable split, savings rate, any currency."
+    },
+    {
+      "slug": "tower-of-hanoi",
+      "name": "Tower of Hanoi",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "The classic disk-stacking puzzle — move the whole stack to another peg, one disk at a time, never a larger disk on a smaller one. 3 to 9 disks, undo and an auto-solver."
     }
   ]
 }
