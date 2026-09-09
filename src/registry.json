@@ -1242,6 +1242,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Series current-limiting resistor for an LED: value, power, wattage rating and nearest E24, for single, series and parallel LEDs."
+    },
+    {
+      "slug": "macro-calculator",
+      "name": "Macro Calculator",
+      "category": "Sports",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Split a daily calorie target into protein, carb and fat grams by a preset ratio, custom split or protein-per-kg target, with per-meal numbers. Estimate only."
     }
   ]
 }
