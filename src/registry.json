@@ -1017,6 +1017,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Resize and compress an image in your browser — width/height, %, or longest side; JPEG/WebP/PNG. No upload."
+    },
+    {
+      "slug": "word-search-maker",
+      "name": "Word Search Maker",
+      "category": "Games",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Build a printable word search from your own words — grid size, diagonals, answer key, shareable link."
     }
   ]
 }
