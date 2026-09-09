@@ -1530,6 +1530,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "The classic jump-and-remove board puzzle — clear the board to a single peg. English, European and triangle boards, with undo, a hint and a solver."
+    },
+    {
+      "slug": "tally-counter",
+      "name": "Tally Counter",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "A free multi-counter for counting anything — people, laps, reps, birds, knitting rows — with custom step sizes, targets, undo and a running total. Saved on your device."
     }
   ]
 }
