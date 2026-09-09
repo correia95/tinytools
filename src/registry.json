@@ -1548,6 +1548,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Paste a JSON sample and get a JSON Schema (draft 2020-12) — types, required properties, nested objects and arrays, formats and enums, inferred in your browser."
+    },
+    {
+      "slug": "roofing-calculator",
+      "name": "Roofing Calculator",
+      "category": "Construction",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Estimate roof area, roofing squares, asphalt-shingle bundles, underlayment, ridge cap and nails from your building footprint and roof pitch, plus an optional cost."
     }
   ]
 }
