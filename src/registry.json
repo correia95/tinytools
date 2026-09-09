@@ -1314,6 +1314,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Monthly lease payment from MSRP, price, residual, term and money factor — with the depreciation/interest split and the total lease cost."
+    },
+    {
+      "slug": "standard-deviation-calculator",
+      "name": "Standard Deviation Calculator",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Sample and population standard deviation and variance with the full step-by-step working, plus standard error, CV, quartiles and outliers."
     }
   ]
 }
