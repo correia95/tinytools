@@ -1278,6 +1278,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Solve a right triangle from any two values — third side by the Pythagorean theorem, angles, area, perimeter, altitude, inradius and circumradius, with steps."
+    },
+    {
+      "slug": "circle-calculator",
+      "name": "Circle Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Radius, diameter, circumference and area from any one value, plus arc length, sector area, chord and segment for a central angle."
     }
   ]
 }
