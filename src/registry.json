@@ -1539,6 +1539,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "A free multi-counter for counting anything — people, laps, reps, birds, knitting rows — with custom step sizes, targets, undo and a running total. Saved on your device."
+    },
+    {
+      "slug": "json-schema-generator",
+      "name": "JSON Schema Generator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Paste a JSON sample and get a JSON Schema (draft 2020-12) — types, required properties, nested objects and arrays, formats and enums, inferred in your browser."
     }
   ]
 }
