@@ -1449,6 +1449,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Convert fuel economy between mpg (US and imperial), litres per 100 km, km per litre and miles per litre — all at once, with a reference table and an optional yearly cost and CO2 estimate."
+    },
+    {
+      "slug": "race-time-predictor",
+      "name": "Race Time Predictor",
+      "category": "Sports",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Predict your race times for every distance from 1500 m to 50 km from one recent result, using Riegel’s formula, with the target pace and a confidence range."
     }
   ]
 }
