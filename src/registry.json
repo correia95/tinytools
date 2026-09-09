@@ -1611,6 +1611,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Estimate a pregnancy due date from your last period, a conception date or an IVF transfer, with how many weeks along you are today, the trimester and week-by-week milestones. An estimate, not medical advice."
+    },
+    {
+      "slug": "moon-phase-calculator",
+      "name": "Moon Phase Calculator",
+      "category": "Other",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "The Moon's phase, illuminated percentage and age for any date, with a drawn Moon disc and the dates of the next new, first quarter, full and last quarter moons."
     }
   ]
 }
