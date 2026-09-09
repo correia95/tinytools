@@ -1161,6 +1161,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Greatest common factor (HCF) and least common multiple of two or more whole numbers, with prime factorisation, the Euclidean algorithm and common factors."
+    },
+    {
+      "slug": "stair-calculator",
+      "name": "Stair Calculator",
+      "category": "Construction",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Risers, riser height, tread run, total run, stringer length and slope from the total rise, with residential code checks and a diagram."
     }
   ]
 }
