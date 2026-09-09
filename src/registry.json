@@ -1053,6 +1053,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Your dogs age in human years — the size-based vet chart and the 2019 formula, side by side."
+    },
+    {
+      "slug": "feels-like-temperature",
+      "name": "Feels Like Temperature",
+      "category": "Other",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Wind chill, heat index and dew point from temperature, humidity and wind — NWS formulas."
     }
   ]
 }
