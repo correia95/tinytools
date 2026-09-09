@@ -1440,6 +1440,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Estimate the materials for a fence — posts, rails, pickets or panels, post caps and post-hole concrete bags — from the run length and your spacing, in metric or imperial, with an optional cost total."
+    },
+    {
+      "slug": "fuel-economy-converter",
+      "name": "Fuel Economy Converter",
+      "category": "Cars",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Convert fuel economy between mpg (US and imperial), litres per 100 km, km per litre and miles per litre — all at once, with a reference table and an optional yearly cost and CO2 estimate."
     }
   ]
 }
