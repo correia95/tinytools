@@ -1206,6 +1206,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Four in a row against a friend or an alpha-beta AI from easy to hard, with the winning line highlighted and W/L/D tracked."
+    },
+    {
+      "slug": "ppi-calculator",
+      "name": "PPI & DPI Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Screen pixels per inch from resolution and diagonal (dot pitch, megapixels, retina distance), plus print DPI, size and pixel-count conversions."
     }
   ]
 }
