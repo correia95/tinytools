@@ -1584,6 +1584,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "The classic disk-stacking puzzle — move the whole stack to another peg, one disk at a time, never a larger disk on a smaller one. 3 to 9 disks, undo and an auto-solver."
+    },
+    {
+      "slug": "caesar-cipher",
+      "name": "Caesar Cipher Decoder",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Encode and decode the Caesar shift, ROT13, Atbash and Vigenère ciphers, or brute-force every Caesar shift ranked by how English each result looks. Runs entirely in your browser."
     }
   ]
 }
