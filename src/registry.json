@@ -1179,6 +1179,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Road speed in every gear, engine RPM at a cruising speed, upshift RPM drop and a speed-vs-RPM chart from your transmission ratios, final drive and tyre size."
+    },
+    {
+      "slug": "golf-handicap-calculator",
+      "name": "Golf Handicap Calculator",
+      "category": "Sports",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "WHS Handicap Index from your scores (lowest 8 of the last 20 differentials), plus Course Handicap and Playing Handicap for any tees."
     }
   ]
 }
