@@ -1413,6 +1413,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Paste text to get its Flesch Reading Ease and Flesch–Kincaid, Gunning Fog, SMOG, Coleman–Liau and ARI grade levels, plus word, sentence and syllable counts. Runs in your browser."
+    },
+    {
+      "slug": "combination-calculator",
+      "name": "Combination Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Calculate combinations C(n,r) and permutations P(n,r), with or without repetition, with exact big-integer results, the formula, the substitution and an optional list of every outcome."
     }
   ]
 }
