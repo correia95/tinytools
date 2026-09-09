@@ -1377,6 +1377,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Slope of a line from two points — as a fraction and a decimal, plus the angle, distance, midpoint, intercepts, and the line equation in slope-intercept, point-slope and standard form, with a graph."
+    },
+    {
+      "slug": "electricity-cost-calculator",
+      "name": "Electricity Cost Calculator",
+      "category": "Finance",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Work out what an appliance costs to run from its wattage, hours of use and your price per kWh — per day, week, month and year, with standby power, a household total and optional CO2."
     }
   ]
 }
