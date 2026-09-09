@@ -1269,6 +1269,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "The classic 15-puzzle plus 3x3 and 5x5, with a daily challenge, move counter and best times. Tap, arrow keys or swipe."
+    },
+    {
+      "slug": "right-triangle-calculator",
+      "name": "Right Triangle Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Solve a right triangle from any two values — third side by the Pythagorean theorem, angles, area, perimeter, altitude, inradius and circumradius, with steps."
     }
   ]
 }
