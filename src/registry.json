@@ -1323,6 +1323,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Sample and population standard deviation and variance with the full step-by-step working, plus standard error, CV, quartiles and outliers."
+    },
+    {
+      "slug": "mastermind-game",
+      "name": "Mastermind",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "The classic code-breaking game — crack the hidden colour code from black-and-white peg feedback, with a daily puzzle and adjustable difficulty."
     }
   ]
 }
