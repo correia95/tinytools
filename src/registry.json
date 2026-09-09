@@ -1485,6 +1485,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "The colour-flood puzzle — recolour your corner territory to swallow the board one colour at a time, and fill it before you run out of moves. Daily puzzle in three sizes."
+    },
+    {
+      "slug": "wire-gauge-calculator",
+      "name": "Wire Gauge Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "AWG wire diameter, area, resistance and current rating for copper or aluminium, plus the voltage drop over a run and the smallest gauge that meets your current and drop limit."
     }
   ]
 }
