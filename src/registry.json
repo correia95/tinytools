@@ -1467,6 +1467,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "List your debts and an extra monthly payment to see your debt-free date and total interest, comparing the snowball and avalanche methods against paying only the minimums."
+    },
+    {
+      "slug": "words-to-time-calculator",
+      "name": "Words to Time Calculator",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Find how long a speech or script takes to read aloud, and how many words fit a time slot, at any speaking pace. Paste text or enter a word count."
     }
   ]
 }
