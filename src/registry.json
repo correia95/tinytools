@@ -1197,6 +1197,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Add utm_source, utm_medium, utm_campaign and more to a link, with consistency checks, custom params and a live preview. Import an existing tagged URL to edit it."
+    },
+    {
+      "slug": "connect-four",
+      "name": "Connect Four",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Four in a row against a friend or an alpha-beta AI from easy to hard, with the winning line highlighted and W/L/D tracked."
     }
   ]
 }
