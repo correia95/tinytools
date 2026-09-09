@@ -1566,6 +1566,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Estimate your body-fat percentage from height, neck and waist measurements (plus hip for women) using the U.S. Navy tape method, with a category, fat and lean mass. Estimate only, not medical advice."
+    },
+    {
+      "slug": "budget-calculator",
+      "name": "Budget Calculator",
+      "category": "Finance",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Split your monthly take-home pay into needs, wants and savings with the 50/30/20 rule, then check your real expenses against each target. Adjustable split, savings rate, any currency."
     }
   ]
 }
