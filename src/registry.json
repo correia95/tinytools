@@ -1089,6 +1089,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Read any text aloud in your browser — voice, speed and pitch picker, sentence highlighting, no upload."
+    },
+    {
+      "slug": "favicon-generator",
+      "name": "Favicon Generator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Make a favicon from an emoji, letters or an image — every size, plus the head tags and web manifest."
     }
   ]
 }
