@@ -1305,6 +1305,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Score your options against weighted criteria and get a ranked result — a weighted decision matrix for any tough call."
+    },
+    {
+      "slug": "car-lease-calculator",
+      "name": "Car Lease Calculator",
+      "category": "Cars",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Monthly lease payment from MSRP, price, residual, term and money factor — with the depreciation/interest split and the total lease cost."
     }
   ]
 }
