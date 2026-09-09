@@ -1350,6 +1350,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Max heart rate and the 5 training zones in bpm — percentage of max or the Karvonen method — from your age or a known max."
+    },
+    {
+      "slug": "http-status-codes",
+      "name": "HTTP Status Codes",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "A searchable reference for every HTTP status code — what it means, when a server should return it, and the RFC that defines it."
     }
   ]
 }
