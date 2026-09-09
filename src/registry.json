@@ -1404,6 +1404,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "The classic switch puzzle — tap a light to flip it and its four neighbours, and turn the whole board off. Daily puzzle in 3x3, 5x5 and 7x7, with a move counter and a hint solver."
+    },
+    {
+      "slug": "readability-calculator",
+      "name": "Readability Calculator",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Paste text to get its Flesch Reading Ease and Flesch–Kincaid, Gunning Fog, SMOG, Coleman–Liau and ARI grade levels, plus word, sentence and syllable counts. Runs in your browser."
     }
   ]
 }
