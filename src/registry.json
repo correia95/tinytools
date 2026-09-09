@@ -1143,6 +1143,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Roots (exact + decimal), discriminant, vertex, factored form and step-by-step working for ax² + bx + c = 0, with a graph."
+    },
+    {
+      "slug": "significant-figures-calculator",
+      "name": "Significant Figures Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Count the significant figures in a number and round to N sig figs or decimal places, with the rules and the working shown."
     }
   ]
 }
