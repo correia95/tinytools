@@ -1386,6 +1386,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Work out what an appliance costs to run from its wattage, hours of use and your price per kWh — per day, week, month and year, with standby power, a household total and optional CO2."
+    },
+    {
+      "slug": "ideal-weight-calculator",
+      "name": "Ideal Weight Calculator",
+      "category": "Sports",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "A healthy weight range for your height from the BMI 18.5–24.9 band, plus the Devine, Robinson, Miller and Hamwi clinical formulas, in kg or lb. Estimate only, not medical advice."
     }
   ]
 }
