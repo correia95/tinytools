@@ -1188,6 +1188,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "WHS Handicap Index from your scores (lowest 8 of the last 20 differentials), plus Course Handicap and Playing Handicap for any tees."
+    },
+    {
+      "slug": "utm-builder",
+      "name": "UTM Builder",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Add utm_source, utm_medium, utm_campaign and more to a link, with consistency checks, custom params and a live preview. Import an existing tagged URL to edit it."
     }
   ]
 }
