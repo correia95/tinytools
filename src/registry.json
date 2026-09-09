@@ -1233,6 +1233,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Enter any two of voltage, current, resistance and power and get the other two, with the formulas shown, plus the Ohm law wheel."
+    },
+    {
+      "slug": "led-resistor-calculator",
+      "name": "LED Resistor Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Series current-limiting resistor for an LED: value, power, wattage rating and nearest E24, for single, series and parallel LEDs."
     }
   ]
 }
