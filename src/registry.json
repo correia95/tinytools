@@ -1512,6 +1512,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Work out the freelance or contractor hourly rate you need to charge from the income you want to keep, your business costs, your tax rate and your billable hours. Day and week rates plus a project quote."
+    },
+    {
+      "slug": "zero-to-sixty-calculator",
+      "name": "0–60 Calculator",
+      "category": "Cars",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Estimate a car’s 0-60 mph, 0-100 km/h and quarter-mile time and trap speed from its power and weight, using the Huntington and Fox drag-strip formulas plus a launch-adjusted model."
     }
   ]
 }
