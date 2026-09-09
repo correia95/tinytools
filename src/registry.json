@@ -1224,6 +1224,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Decode a resistor from its colour bands or build the bands for a value — 3/4/5/6-band, tolerance, temperature coefficient, resistance range and nearest E24 value."
+    },
+    {
+      "slug": "ohms-law-calculator",
+      "name": "Ohm's Law Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Enter any two of voltage, current, resistance and power and get the other two, with the formulas shown, plus the Ohm law wheel."
     }
   ]
 }
