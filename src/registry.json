@@ -1494,6 +1494,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "AWG wire diameter, area, resistance and current rating for copper or aluminium, plus the voltage drop over a run and the smallest gauge that meets your current and drop limit."
+    },
+    {
+      "slug": "interval-timer",
+      "name": "Interval Timer",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "A HIIT and Tabata interval timer — warm-up, work/rest rounds, sets with breaks and a cool-down, with audio cues and a big countdown. Works offline, keeps the screen awake."
     }
   ]
 }
