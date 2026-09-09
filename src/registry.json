@@ -1260,6 +1260,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Convert a number between decimal, scientific, engineering and E-notation with SI prefix and order of magnitude, plus arithmetic in scientific notation."
+    },
+    {
+      "slug": "sliding-puzzle",
+      "name": "Sliding Puzzle",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "The classic 15-puzzle plus 3x3 and 5x5, with a daily challenge, move counter and best times. Tap, arrow keys or swipe."
     }
   ]
 }
