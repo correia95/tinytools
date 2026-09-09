@@ -1215,6 +1215,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Screen pixels per inch from resolution and diagonal (dot pitch, megapixels, retina distance), plus print DPI, size and pixel-count conversions."
+    },
+    {
+      "slug": "resistor-color-code-calculator",
+      "name": "Resistor Color Code Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Decode a resistor from its colour bands or build the bands for a value — 3/4/5/6-band, tolerance, temperature coefficient, resistance range and nearest E24 value."
     }
   ]
 }
