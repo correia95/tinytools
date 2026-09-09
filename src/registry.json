@@ -1458,6 +1458,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Predict your race times for every distance from 1500 m to 50 km from one recent result, using Riegel’s formula, with the target pace and a confidence range."
+    },
+    {
+      "slug": "debt-payoff-calculator",
+      "name": "Debt Payoff Calculator",
+      "category": "Finance",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "List your debts and an extra monthly payment to see your debt-free date and total interest, comparing the snowball and avalanche methods against paying only the minimums."
     }
   ]
 }
