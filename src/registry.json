@@ -1359,6 +1359,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "A searchable reference for every HTTP status code — what it means, when a server should return it, and the RFC that defines it."
+    },
+    {
+      "slug": "metronome",
+      "name": "Metronome",
+      "category": "Other",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "A precise metronome with tap tempo, time signatures from 2/4 to 12/8, subdivisions and accented downbeats. Accurate Web Audio timing, works offline."
     }
   ]
 }
