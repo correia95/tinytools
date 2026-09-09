@@ -1557,6 +1557,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Estimate roof area, roofing squares, asphalt-shingle bundles, underlayment, ridge cap and nails from your building footprint and roof pitch, plus an optional cost."
+    },
+    {
+      "slug": "body-fat-calculator",
+      "name": "Body Fat Calculator",
+      "category": "Sports",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Estimate your body-fat percentage from height, neck and waist measurements (plus hip for women) using the U.S. Navy tape method, with a category, fat and lean mass. Estimate only, not medical advice."
     }
   ]
 }
