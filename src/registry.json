@@ -999,6 +999,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Break a URL into its parts, edit the query string in a table, rebuild it, and get JSON."
+    },
+    {
+      "slug": "ascii-table",
+      "name": "ASCII Table",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Every character code 0-255 with decimal, hex, octal, binary, HTML entity and description. Searchable."
     }
   ]
 }
