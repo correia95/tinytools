@@ -115,4 +115,5 @@
   <url><loc>https://ascii-table.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://image-resizer.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://word-search-maker.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://cron-expression-generator.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
 </urlset>

@@ -1026,6 +1026,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Build a printable word search from your own words — grid size, diagonals, answer key, shareable link."
+    },
+    {
+      "slug": "cron-expression-generator",
+      "name": "Cron Expression Generator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Build a crontab schedule from menus — cron string, plain-English description and the next run times."
     }
   ]
 }
