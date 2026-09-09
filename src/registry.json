@@ -1422,6 +1422,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Calculate combinations C(n,r) and permutations P(n,r), with or without repetition, with exact big-integer results, the formula, the substitution and an optional list of every outcome."
+    },
+    {
+      "slug": "molar-mass-calculator",
+      "name": "Molar Mass Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Enter a chemical formula to get its molar mass in g/mol, with each element atom count, mass and mass percent, plus a grams-to-moles converter. Handles groups and hydrates."
     }
   ]
 }
