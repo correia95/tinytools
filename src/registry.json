@@ -1296,6 +1296,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Generate a scannable EAN-13, EAN-8, UPC-A or Code 128 barcode with an automatic check digit; download as SVG or PNG, all client-side."
+    },
+    {
+      "slug": "decision-matrix",
+      "name": "Decision Matrix",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Score your options against weighted criteria and get a ranked result — a weighted decision matrix for any tough call."
     }
   ]
 }
