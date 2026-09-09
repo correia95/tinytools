@@ -1080,6 +1080,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Play against an AI that learns your patterns and plays the counter. Random play is your best defence."
+    },
+    {
+      "slug": "text-to-speech",
+      "name": "Text to Speech",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Read any text aloud in your browser — voice, speed and pitch picker, sentence highlighting, no upload."
     }
   ]
 }
