@@ -990,6 +990,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Estimate calories burned from an activity, your body weight and time — 43 activities, MET-based."
+    },
+    {
+      "slug": "url-parser",
+      "name": "URL Parser",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Break a URL into its parts, edit the query string in a table, rebuild it, and get JSON."
     }
   ]
 }
