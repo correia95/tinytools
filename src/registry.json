@@ -1647,6 +1647,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Spell text out in Alfa, Bravo, Charlie and read code words back into text, with the full A–Z and 0–9 chart, radio digit words and spoken playback."
+    },
+    {
+      "slug": "firewood-calculator",
+      "name": "Firewood Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "How many cords and face cords are in a stack of firewood, plus its weight, heat value in BTU and price per cord by wood species. Also converts any firewood quote to a price per full cord."
     }
   ]
 }
