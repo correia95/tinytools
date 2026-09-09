@@ -1431,6 +1431,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Enter a chemical formula to get its molar mass in g/mol, with each element atom count, mass and mass percent, plus a grams-to-moles converter. Handles groups and hydrates."
+    },
+    {
+      "slug": "fence-calculator",
+      "name": "Fence Calculator",
+      "category": "Construction",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Estimate the materials for a fence — posts, rails, pickets or panels, post caps and post-hole concrete bags — from the run length and your spacing, in metric or imperial, with an optional cost total."
     }
   ]
 }
