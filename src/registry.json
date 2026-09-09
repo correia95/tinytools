@@ -1593,6 +1593,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Encode and decode the Caesar shift, ROT13, Atbash and Vigenère ciphers, or brute-force every Caesar shift ranked by how English each result looks. Runs entirely in your browser."
+    },
+    {
+      "slug": "pizza-dough-calculator",
+      "name": "Pizza Dough Calculator",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Flour, water, salt, yeast and oil for any number of pizza dough balls, by baker's percentage. Hydration slider, style presets, yeast conversions and an optional poolish."
     }
   ]
 }
