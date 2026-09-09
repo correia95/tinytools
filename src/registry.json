@@ -1620,6 +1620,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "The Moon's phase, illuminated percentage and age for any date, with a drawn Moon disc and the dates of the next new, first quarter, full and last quarter moons."
+    },
+    {
+      "slug": "cat-age-calculator",
+      "name": "Cat Age Calculator",
+      "category": "Other",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Your cat's age in human years and its life stage, using the AAHA / AAFP feline chart — about 15 for the first year, 24 by the second, then 4 a year. A guide, not veterinary advice."
     }
   ]
 }
