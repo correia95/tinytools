@@ -1368,6 +1368,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "A precise metronome with tap tempo, time signatures from 2/4 to 12/8, subdivisions and accented downbeats. Accurate Web Audio timing, works offline."
+    },
+    {
+      "slug": "slope-calculator",
+      "name": "Slope Calculator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Slope of a line from two points — as a fraction and a decimal, plus the angle, distance, midpoint, intercepts, and the line equation in slope-intercept, point-slope and standard form, with a graph."
     }
   ]
 }
