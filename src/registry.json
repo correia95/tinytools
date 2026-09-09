@@ -1602,6 +1602,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Flour, water, salt, yeast and oil for any number of pizza dough balls, by baker's percentage. Hydration slider, style presets, yeast conversions and an optional poolish."
+    },
+    {
+      "slug": "due-date-calculator",
+      "name": "Due Date Calculator",
+      "category": "Other",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Estimate a pregnancy due date from your last period, a conception date or an IVF transfer, with how many weeks along you are today, the trimester and week-by-week milestones. An estimate, not medical advice."
     }
   ]
 }
