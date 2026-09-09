@@ -1476,6 +1476,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Find how long a speech or script takes to read aloud, and how many words fit a time slot, at any speaking pace. Paste text or enter a word count."
+    },
+    {
+      "slug": "flood-it-game",
+      "name": "Flood It",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "The colour-flood puzzle — recolour your corner territory to swallow the board one colour at a time, and fill it before you run out of moves. Daily puzzle in three sizes."
     }
   ]
 }
