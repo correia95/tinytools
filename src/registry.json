@@ -1341,6 +1341,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Is a number prime? Exact check to 10^17 with prime factorization, next/previous prime, count of primes below it and prime families."
+    },
+    {
+      "slug": "heart-rate-zone-calculator",
+      "name": "Heart Rate Zone Calculator",
+      "category": "Sports",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Max heart rate and the 5 training zones in bpm — percentage of max or the Karvonen method — from your age or a known max."
     }
   ]
 }
