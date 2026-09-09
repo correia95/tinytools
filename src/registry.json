@@ -1062,6 +1062,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Wind chill, heat index and dew point from temperature, humidity and wind — NWS formulas."
+    },
+    {
+      "slug": "snake-game",
+      "name": "Snake",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "The classic Snake game — keyboard or swipe, optional wrap-around walls, high score saved locally."
     }
   ]
 }
