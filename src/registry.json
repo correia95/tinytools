@@ -1008,6 +1008,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Every character code 0-255 with decimal, hex, octal, binary, HTML entity and description. Searchable."
+    },
+    {
+      "slug": "image-resizer",
+      "name": "Image Resizer",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "Resize and compress an image in your browser — width/height, %, or longest side; JPEG/WebP/PNG. No upload."
     }
   ]
 }
