@@ -1251,6 +1251,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "Split a daily calorie target into protein, carb and fat grams by a preset ratio, custom split or protein-per-kg target, with per-meal numbers. Estimate only."
+    },
+    {
+      "slug": "scientific-notation-converter",
+      "name": "Scientific Notation Converter",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "Convert a number between decimal, scientific, engineering and E-notation with SI prefix and order of magnitude, plus arithmetic in scientific notation."
     }
   ]
 }
