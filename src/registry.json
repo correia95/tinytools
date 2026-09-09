@@ -1107,6 +1107,15 @@
       "featured": false,
       "launched": "2026-09-09",
       "description": "Add or remove VAT at any rate, with country presets for the UK, Ireland, Germany, France and more."
+    },
+    {
+      "slug": "mulch-calculator",
+      "name": "Mulch Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-09",
+      "description": "How much mulch, topsoil, compost or gravel you need for a garden bed — bags and bulk."
     }
   ]
 }
