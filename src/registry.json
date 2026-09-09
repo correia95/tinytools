@@ -1395,6 +1395,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "A healthy weight range for your height from the BMI 18.5–24.9 band, plus the Devine, Robinson, Miller and Hamwi clinical formulas, in kg or lb. Estimate only, not medical advice."
+    },
+    {
+      "slug": "lights-out-game",
+      "name": "Lights Out",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-10",
+      "description": "The classic switch puzzle — tap a light to flip it and its four neighbours, and turn the whole board off. Daily puzzle in 3x3, 5x5 and 7x7, with a move counter and a hint solver."
     }
   ]
 }
