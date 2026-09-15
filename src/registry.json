@@ -1701,6 +1701,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "See a colour palette or an uploaded image the way someone with protanopia, deuteranomaly, tritanopia or achromatopsia would see it. Client-side, nothing uploaded."
+    },
+    {
+      "slug": "iban-validator",
+      "name": "IBAN Validator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Check an IBAN's format, length and mod-97 checksum, with the country identified and the number formatted for display. Format check only, runs entirely in your browser."
     }
   ]
 }

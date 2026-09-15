@@ -190,4 +190,5 @@
   <url><loc>https://bowling-score-calculator.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://darts-checkout-calculator.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://color-blindness-simulator.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://iban-validator.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
 </urlset>
