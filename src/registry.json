@@ -1755,6 +1755,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Type in or paste any 9x9 Sudoku puzzle and get the solution instantly, with live conflict detection and a check for whether the puzzle has a unique solution."
+    },
+    {
+      "slug": "business-days-calculator",
+      "name": "Business Days Calculator",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Count the working days between two dates, or add/subtract business days from a date, skipping weekends and any holidays you list. One click to prefill US federal holidays."
     }
   ]
 }
