@@ -1719,6 +1719,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Convert between APR (nominal rate) and APY (effective annual rate) for any compounding frequency, in either direction, and compare two offers by their real effective yield."
+    },
+    {
+      "slug": "board-feet-calculator",
+      "name": "Board Feet Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Lumber board footage from size, length and quantity, by nominal or actual (S4S) dimensions, with a cost estimate and a reference table of common sizes."
     }
   ]
 }
