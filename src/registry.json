@@ -1917,6 +1917,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Daily picross puzzle. Fill the grid using row and column clues to reveal a picture; every puzzle has a verified unique solution."
+    },
+    {
+      "slug": "invoice-generator",
+      "name": "Invoice Generator",
+      "category": "Business",
+      "action": "Create",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Free, printable invoice with line items, tax and totals. Print or save as PDF, no sign-up."
     }
   ]
 }
