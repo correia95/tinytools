@@ -1809,6 +1809,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Check a Vehicle Identification Number's format and check digit, and decode its manufacturing region and candidate model years."
+    },
+    {
+      "slug": "matrix-calculator",
+      "name": "Matrix Calculator",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Add, subtract, multiply, transpose, or find the determinant and inverse of a matrix, up to 4x4."
     }
   ]
 }
