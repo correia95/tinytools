@@ -1836,6 +1836,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Build a flashcard deck and study it — missed cards come back around until you get every one right. Share a deck with a link."
+    },
+    {
+      "slug": "packing-list-generator",
+      "name": "Packing List Generator",
+      "category": "Other",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "A categorized packing checklist built from your trip's length, climate and activities. Check items off as you pack."
     }
   ]
 }
