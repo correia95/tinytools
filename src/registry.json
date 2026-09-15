@@ -1656,6 +1656,15 @@
       "featured": false,
       "launched": "2026-09-10",
       "description": "How many cords and face cords are in a stack of firewood, plus its weight, heat value in BTU and price per cord by wood species. Also converts any firewood quote to a price per full cord."
+    },
+    {
+      "slug": "wallpaper-calculator",
+      "name": "Wallpaper Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "How many rolls of wallpaper a room needs, accounting for the roll size, pattern repeat and match type, large openings and paste."
     }
   ]
 }
