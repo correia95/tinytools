@@ -1674,6 +1674,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "What it costs to charge and drive an electric car per trip, per full charge and per year — with charging losses, MPGe and a real petrol/diesel comparison."
+    },
+    {
+      "slug": "bowling-score-calculator",
+      "name": "Bowling Score Calculator",
+      "category": "Sports",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Tap in the pins for each roll and get a correctly-scored, live 10-frame scoreboard — strikes, spares and the 10th-frame bonus balls all handled."
     }
   ]
 }
