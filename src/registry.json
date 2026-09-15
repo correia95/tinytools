@@ -1818,6 +1818,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Add, subtract, multiply, transpose, or find the determinant and inverse of a matrix, up to 4x4."
+    },
+    {
+      "slug": "linear-equations-solver",
+      "name": "Linear Equations Solver",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Solve a system of 2 or 3 linear equations for every variable at once, via Cramer's rule. Detects no-solution and infinite-solution cases."
     }
   ]
 }

@@ -203,4 +203,5 @@
   <url><loc>https://sunrise-sunset-calculator.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://vin-validator.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://matrix-calculator.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://linear-equations-solver.correia95.workers.dev/</loc><changefreq>weekly</changefreq></url>
 </urlset>
