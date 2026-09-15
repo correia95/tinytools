@@ -1683,6 +1683,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Tap in the pins for each roll and get a correctly-scored, live 10-frame scoreboard — strikes, spares and the 10th-frame bonus balls all handled."
+    },
+    {
+      "slug": "darts-checkout-calculator",
+      "name": "Darts Checkout Calculator",
+      "category": "Sports",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "The best finish for any remaining darts score from 2 to 170, plus a 301/501/701 leg tracker with automatic bust detection and a running darts average."
     }
   ]
 }
