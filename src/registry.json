@@ -1764,6 +1764,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Count the working days between two dates, or add/subtract business days from a date, skipping weekends and any holidays you list. One click to prefill US federal holidays."
+    },
+    {
+      "slug": "rent-vs-buy-calculator",
+      "name": "Rent vs Buy Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Compares buying a home against renting and investing the difference, month by month, and shows which one builds more net worth over time, with a breakeven year."
     }
   ]
 }
