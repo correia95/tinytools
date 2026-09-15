@@ -1728,6 +1728,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Lumber board footage from size, length and quantity, by nominal or actual (S4S) dimensions, with a cost estimate and a reference table of common sizes."
+    },
+    {
+      "slug": "chess-elo-calculator",
+      "name": "Chess Elo Calculator",
+      "category": "Sports",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Elo rating change after a game, your expected score against any opponent, and a tournament mode with a running performance rating. Adjustable K-factor."
     }
   ]
 }
