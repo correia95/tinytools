@@ -1746,6 +1746,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Waist-to-hip ratio and waist-to-height ratio with WHO and common screening risk bands, metric or imperial. A screening guide, not medical advice."
+    },
+    {
+      "slug": "sudoku-solver",
+      "name": "Sudoku Solver",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Type in or paste any 9x9 Sudoku puzzle and get the solution instantly, with live conflict detection and a check for whether the puzzle has a unique solution."
     }
   ]
 }
