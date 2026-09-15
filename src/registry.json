@@ -1854,6 +1854,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Change one letter at a time to turn the start word into the target word. A new puzzle every day, plus unlimited practice."
+    },
+    {
+      "slug": "battleship",
+      "name": "Battleship",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Single-player Battleship against a hunt-and-target computer opponent. Sink the fleet before it sinks yours."
     }
   ]
 }
