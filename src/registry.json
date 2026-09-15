@@ -1827,6 +1827,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Solve a system of 2 or 3 linear equations for every variable at once, via Cramer's rule. Detects no-solution and infinite-solution cases."
+    },
+    {
+      "slug": "flashcard-study",
+      "name": "Flashcard Study",
+      "category": "Productivity",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Build a flashcard deck and study it — missed cards come back around until you get every one right. Share a deck with a link."
     }
   ]
 }
