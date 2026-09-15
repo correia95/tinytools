@@ -1845,6 +1845,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "A categorized packing checklist built from your trip's length, climate and activities. Check items off as you pack."
+    },
+    {
+      "slug": "word-ladder",
+      "name": "Word Ladder",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Change one letter at a time to turn the start word into the target word. A new puzzle every day, plus unlimited practice."
     }
   ]
 }
