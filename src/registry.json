@@ -1872,6 +1872,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Projects retirement savings growth to retirement, then simulates drawing them down to see how long the money actually lasts, with a 4% rule check."
+    },
+    {
+      "slug": "braille-translator",
+      "name": "Braille Translator",
+      "category": "Tools",
+      "action": "Convert",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Convert English text to Grade 1 Braille and back, using the standard Unicode Braille patterns."
     }
   ]
 }
