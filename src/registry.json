@@ -1800,6 +1800,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Sunrise, sunset, solar noon and day length for any date and location, computed from the sun's actual position. Handles polar day and polar night."
+    },
+    {
+      "slug": "vin-validator",
+      "name": "VIN Validator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Check a Vehicle Identification Number's format and check digit, and decode its manufacturing region and candidate model years."
     }
   ]
 }
