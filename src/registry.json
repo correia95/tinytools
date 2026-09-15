@@ -1665,6 +1665,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "How many rolls of wallpaper a room needs, accounting for the roll size, pattern repeat and match type, large openings and paste."
+    },
+    {
+      "slug": "ev-charging-cost-calculator",
+      "name": "EV Charging Cost Calculator",
+      "category": "Cars",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "What it costs to charge and drive an electric car per trip, per full charge and per year — with charging losses, MPGe and a real petrol/diesel comparison."
     }
   ]
 }
