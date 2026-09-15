@@ -1926,6 +1926,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Free, printable invoice with line items, tax and totals. Print or save as PDF, no sign-up."
+    },
+    {
+      "slug": "kanban-board",
+      "name": "Kanban Board",
+      "category": "Productivity",
+      "action": "Organize",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "A simple task board: add columns, add cards, move cards between them. Autosaved, with a shareable link."
     }
   ]
 }
