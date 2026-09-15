@@ -1899,6 +1899,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Heads-up Texas Hold'em equity calculator. Exact odds on the flop, turn and river, seeded simulation preflop."
+    },
+    {
+      "slug": "mortgage-refinance-calculator",
+      "name": "Mortgage Refinance Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Compare your current mortgage to a refinance offer: new payment, breakeven month, and lifetime interest difference."
     }
   ]
 }
