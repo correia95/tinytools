@@ -1863,6 +1863,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Single-player Battleship against a hunt-and-target computer opponent. Sink the fleet before it sinks yours."
+    },
+    {
+      "slug": "retirement-savings-calculator",
+      "name": "Retirement Savings Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Projects retirement savings growth to retirement, then simulates drawing them down to see how long the money actually lasts, with a 4% rule check."
     }
   ]
 }
