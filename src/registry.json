@@ -1782,6 +1782,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "List what you own and what you owe, grouped by category, and see your net worth and how it breaks down."
+    },
+    {
+      "slug": "isbn-validator",
+      "name": "ISBN Validator & Converter",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Check an ISBN-10 or ISBN-13's checksum and convert between the two formats. Handles the ISBN-10 check digit X."
     }
   ]
 }
