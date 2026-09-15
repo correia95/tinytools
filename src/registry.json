@@ -1773,6 +1773,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Compares buying a home against renting and investing the difference, month by month, and shows which one builds more net worth over time, with a breakeven year."
+    },
+    {
+      "slug": "net-worth-calculator",
+      "name": "Net Worth Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "List what you own and what you owe, grouped by category, and see your net worth and how it breaks down."
     }
   ]
 }
