@@ -1710,6 +1710,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Check an IBAN's format, length and mod-97 checksum, with the country identified and the number formatted for display. Format check only, runs entirely in your browser."
+    },
+    {
+      "slug": "apr-apy-converter",
+      "name": "APR to APY Converter",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Convert between APR (nominal rate) and APY (effective annual rate) for any compounding frequency, in either direction, and compare two offers by their real effective yield."
     }
   ]
 }
