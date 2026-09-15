@@ -1737,6 +1737,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Elo rating change after a game, your expected score against any opponent, and a tournament mode with a running performance rating. Adjustable K-factor."
+    },
+    {
+      "slug": "waist-to-hip-ratio-calculator",
+      "name": "Waist-to-Hip Ratio Calculator",
+      "category": "Other",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Waist-to-hip ratio and waist-to-height ratio with WHO and common screening risk bands, metric or imperial. A screening guide, not medical advice."
     }
   ]
 }
