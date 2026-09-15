@@ -1692,6 +1692,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "The best finish for any remaining darts score from 2 to 170, plus a 301/501/701 leg tracker with automatic bust detection and a running darts average."
+    },
+    {
+      "slug": "color-blindness-simulator",
+      "name": "Color Blindness Simulator",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "See a colour palette or an uploaded image the way someone with protanopia, deuteranomaly, tritanopia or achromatopsia would see it. Client-side, nothing uploaded."
     }
   ]
 }
