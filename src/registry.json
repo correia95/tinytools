@@ -1908,6 +1908,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Compare your current mortgage to a refinance offer: new payment, breakeven month, and lifetime interest difference."
+    },
+    {
+      "slug": "nonogram",
+      "name": "Nonogram",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Daily picross puzzle. Fill the grid using row and column clues to reveal a picture; every puzzle has a verified unique solution."
     }
   ]
 }
