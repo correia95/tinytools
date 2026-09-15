@@ -1890,6 +1890,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "See marginal vs. effective tax rate with a full per-bracket breakdown. Every bracket is editable, with an illustrative example to start from."
+    },
+    {
+      "slug": "poker-odds-calculator",
+      "name": "Poker Odds Calculator",
+      "category": "Games",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Heads-up Texas Hold'em equity calculator. Exact odds on the flop, turn and river, seeded simulation preflop."
     }
   ]
 }
