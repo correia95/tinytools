@@ -1881,6 +1881,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Convert English text to Grade 1 Braille and back, using the standard Unicode Braille patterns."
+    },
+    {
+      "slug": "tax-bracket-calculator",
+      "name": "Tax Bracket Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "See marginal vs. effective tax rate with a full per-bracket breakdown. Every bracket is editable, with an illustrative example to start from."
     }
   ]
 }
