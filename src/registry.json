@@ -2313,6 +2313,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Split a pooled tip amount among staff by hours worked and role weight."
+    },
+    {
+      "slug": "incline-calculator",
+      "name": "Incline Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Grade %, degrees, and rise:run ratio — edit any one and the others update."
     }
   ]
 }
