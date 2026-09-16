@@ -2160,6 +2160,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Regular, overtime, and double-time pay split, plus your effective hourly rate."
+    },
+    {
+      "slug": "world-clock",
+      "name": "World Clock",
+      "category": "Tools",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Current time in cities around the world, with each one's difference from yours."
     }
   ]
 }
