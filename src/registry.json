@@ -2223,6 +2223,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Flat, graduated, or cliff commission plans, plus a draw-against-commission check."
+    },
+    {
+      "slug": "rowing-pace-calculator",
+      "name": "Rowing Pace Calculator",
+      "category": "Sports",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Erg split, watts, and distance time — edit any one and the others update."
     }
   ]
 }
