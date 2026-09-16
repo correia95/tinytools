@@ -2142,6 +2142,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Full month-by-month loan payoff schedule and extra-payment savings."
+    },
+    {
+      "slug": "appliance-energy-cost-calculator",
+      "name": "Appliance Energy Cost Calculator",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "What your appliances actually cost to run per day, month, and year."
     }
   ]
 }
