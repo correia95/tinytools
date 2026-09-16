@@ -1980,6 +1980,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "See what your recurring subscriptions really cost per month and per year, plus upcoming renewals."
+    },
+    {
+      "slug": "insulation-r-value-calculator",
+      "name": "Insulation R-Value Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Stack insulation layers to see total R-value, and solve for the thickness needed to reach a target."
     }
   ]
 }
