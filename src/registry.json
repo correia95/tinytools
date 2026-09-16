@@ -2187,6 +2187,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Two-proportion z-test: is your variant's lift real, or just noise?"
+    },
+    {
+      "slug": "recipe-cost-calculator",
+      "name": "Recipe Cost Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Cost per serving and a suggested menu price from your target food-cost %."
     }
   ]
 }
