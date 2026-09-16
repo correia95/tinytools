@@ -2115,6 +2115,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "A schedule where every participant plays every other exactly once, with automatic byes."
+    },
+    {
+      "slug": "ltv-cac-calculator",
+      "name": "LTV / CAC Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Customer lifetime value, CAC, the LTV:CAC ratio, and CAC payback period."
     }
   ]
 }
