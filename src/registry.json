@@ -2232,6 +2232,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Erg split, watts, and distance time — edit any one and the others update."
+    },
+    {
+      "slug": "parking-pass-calculator",
+      "name": "Parking Pass Calculator",
+      "category": "Finance",
+      "action": "Compare",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Pay-per-visit parking vs. a weekly, monthly, or annual pass, with the break-even point."
     }
   ]
 }
