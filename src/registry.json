@@ -2295,6 +2295,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "How many pavers and how much base material you need for a patio or walkway."
+    },
+    {
+      "slug": "roas-calculator",
+      "name": "ROAS Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Return on ad spend vs. the break-even ROAS your margin requires, plus profit."
     }
   ]
 }
