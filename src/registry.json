@@ -2178,6 +2178,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Front-end and back-end DTI ratio, the metrics lenders use to assess loans."
+    },
+    {
+      "slug": "ab-test-calculator",
+      "name": "A/B Test Significance Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Two-proportion z-test: is your variant's lift real, or just noise?"
     }
   ]
 }
