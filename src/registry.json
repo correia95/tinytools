@@ -2268,6 +2268,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Reaction distance, braking distance, and total stopping distance from speed and road conditions."
+    },
+    {
+      "slug": "churn-rate-calculator",
+      "name": "Churn Rate Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Customer churn, gross/net revenue churn, retention rate, and average customer lifetime."
     }
   ]
 }
