@@ -2340,6 +2340,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Pace per 100m/100yd and distance time — edit any one and the others update."
+    },
+    {
+      "slug": "zodiac-sign-calculator",
+      "name": "Zodiac Sign Calculator",
+      "category": "Other",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Find your Western zodiac sun sign, element, modality, and ruling planet."
     }
   ]
 }
