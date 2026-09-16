@@ -2016,6 +2016,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "RFC 6238 authenticator codes from a secret key. Nothing is saved or sent — no share link, by design."
+    },
+    {
+      "slug": "othello",
+      "name": "Othello",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Single-player Othello (Reversi) against a minimax AI with correct flanking rules."
     }
   ]
 }
