@@ -2196,6 +2196,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Cost per serving and a suggested menu price from your target food-cost %."
+    },
+    {
+      "slug": "vesting-schedule-calculator",
+      "name": "Vesting Schedule Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "How many of your stock options or RSUs have vested, with a cliff and schedule."
     }
   ]
 }
