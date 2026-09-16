@@ -2070,6 +2070,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Sheets, screws, and joint compound needed for a room, accounting for doors, windows and waste."
+    },
+    {
+      "slug": "group-expense-splitter",
+      "name": "Group Expense Splitter",
+      "category": "Finance",
+      "action": "Open",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Track shared trip expenses paid by different people and see who owes whom, in the fewest payments."
     }
   ]
 }
