@@ -2205,6 +2205,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "How many of your stock options or RSUs have vested, with a cliff and schedule."
+    },
+    {
+      "slug": "rent-proration-calculator",
+      "name": "Rent Proration Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Partial-month rent from actual days occupied, for move-ins and move-outs."
     }
   ]
 }
