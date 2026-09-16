@@ -2124,6 +2124,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Customer lifetime value, CAC, the LTV:CAC ratio, and CAC payback period."
+    },
+    {
+      "slug": "fire-calculator",
+      "name": "FIRE Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "How much you need for financial independence, and when you'll get there."
     }
   ]
 }
