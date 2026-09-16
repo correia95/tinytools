@@ -1953,6 +1953,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Compare two JSON documents by structure and value, not by line. Key order never counts as a difference."
+    },
+    {
+      "slug": "checkers",
+      "name": "Checkers",
+      "category": "Games",
+      "action": "Play",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Single-player checkers (English draughts) against a minimax AI, with correct standard rules."
     }
   ]
 }
