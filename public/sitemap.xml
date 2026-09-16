@@ -217,4 +217,5 @@
   <url><loc>https://invoice-generator.correia95.workers.dev/</loc><changefreq>monthly</changefreq></url>
   <url><loc>https://kanban-board.correia95.workers.dev/</loc><changefreq>monthly</changefreq></url>
   <url><loc>https://cricket-nrr-calculator.correia95.workers.dev/</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://json-diff-viewer.correia95.workers.dev/</loc><changefreq>monthly</changefreq></url>
 </urlset>

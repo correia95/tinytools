@@ -1944,6 +1944,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Calculate cumulative Net Run Rate across a tournament, handling the all-out rule correctly."
+    },
+    {
+      "slug": "json-diff-viewer",
+      "name": "JSON Diff Viewer",
+      "category": "Tools",
+      "action": "Compare",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Compare two JSON documents by structure and value, not by line. Key order never counts as a difference."
     }
   ]
 }
