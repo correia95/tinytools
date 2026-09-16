@@ -2259,6 +2259,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "What size air conditioner a room needs, from floor area and a few adjustments."
+    },
+    {
+      "slug": "braking-distance-calculator",
+      "name": "Braking Distance Calculator",
+      "category": "Cars",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Reaction distance, braking distance, and total stopping distance from speed and road conditions."
     }
   ]
 }
