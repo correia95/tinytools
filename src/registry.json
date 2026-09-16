@@ -2133,6 +2133,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "How much you need for financial independence, and when you'll get there."
+    },
+    {
+      "slug": "loan-amortization-calculator",
+      "name": "Loan Amortization Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Full month-by-month loan payoff schedule and extra-payment savings."
     }
   ]
 }
