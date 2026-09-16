@@ -2043,6 +2043,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Find the units and revenue needed to cover your fixed costs, plus profit at any volume."
+    },
+    {
+      "slug": "startup-runway-calculator",
+      "name": "Startup Runway Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "How many months of cash you have left at your burn rate, and what it'd take to extend it."
     }
   ]
 }
