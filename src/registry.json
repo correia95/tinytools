@@ -1998,6 +1998,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Compare two commutes on annual cost, time, and — once you price your time — overall value."
+    },
+    {
+      "slug": "curl-command-generator",
+      "name": "cURL Command Generator",
+      "category": "Tools",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Build a correctly-quoted curl command or fetch() snippet from a simple form."
     }
   ]
 }
