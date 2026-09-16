@@ -1989,6 +1989,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Stack insulation layers to see total R-value, and solve for the thickness needed to reach a target."
+    },
+    {
+      "slug": "commute-cost-calculator",
+      "name": "Commute Cost Calculator",
+      "category": "Cars",
+      "action": "Compare",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Compare two commutes on annual cost, time, and — once you price your time — overall value."
     }
   ]
 }
