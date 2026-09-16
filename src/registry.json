@@ -2214,6 +2214,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Partial-month rent from actual days occupied, for move-ins and move-outs."
+    },
+    {
+      "slug": "sales-commission-calculator",
+      "name": "Sales Commission Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Flat, graduated, or cliff commission plans, plus a draw-against-commission check."
     }
   ]
 }
