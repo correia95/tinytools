@@ -1971,6 +1971,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Years until solar panels pay for themselves, accounting for panel degradation and rising electricity prices."
+    },
+    {
+      "slug": "subscription-tracker",
+      "name": "Subscription Cost Tracker",
+      "category": "Finance",
+      "action": "Track",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "See what your recurring subscriptions really cost per month and per year, plus upcoming renewals."
     }
   ]
 }
