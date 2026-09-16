@@ -2250,6 +2250,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "How much turf you need for a lawn, in rolls or pallets, with wastage and cost."
+    },
+    {
+      "slug": "aircon-btu-calculator",
+      "name": "Air Conditioner BTU Calculator",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "What size air conditioner a room needs, from floor area and a few adjustments."
     }
   ]
 }
