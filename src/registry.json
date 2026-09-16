@@ -2322,6 +2322,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Grade %, degrees, and rise:run ratio — edit any one and the others update."
+    },
+    {
+      "slug": "tire-tread-calculator",
+      "name": "Tire Tread Calculator",
+      "category": "Cars",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Estimate remaining tire life in miles from tread depth measurements."
     }
   ]
 }
