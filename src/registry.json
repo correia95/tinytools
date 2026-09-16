@@ -2286,6 +2286,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Simple and discounted payback period for a capital investment with uneven cash flows."
+    },
+    {
+      "slug": "paver-calculator",
+      "name": "Paver Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "How many pavers and how much base material you need for a patio or walkway."
     }
   ]
 }
