@@ -2007,6 +2007,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Build a correctly-quoted curl command or fetch() snippet from a simple form."
+    },
+    {
+      "slug": "totp-generator",
+      "name": "TOTP Code Generator",
+      "category": "Tools",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "RFC 6238 authenticator codes from a secret key. Nothing is saved or sent — no share link, by design."
     }
   ]
 }
