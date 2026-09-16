@@ -1962,6 +1962,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Single-player checkers (English draughts) against a minimax AI, with correct standard rules."
+    },
+    {
+      "slug": "solar-panel-payback-calculator",
+      "name": "Solar Panel Payback Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Years until solar panels pay for themselves, accounting for panel degradation and rising electricity prices."
     }
   ]
 }
