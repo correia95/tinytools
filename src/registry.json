@@ -2097,6 +2097,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Your Chinese zodiac animal and element from your birth year, and your next zodiac year."
+    },
+    {
+      "slug": "secret-santa-generator",
+      "name": "Secret Santa Generator",
+      "category": "Productivity",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Random gift-exchange pairings with exclusions (like couples), revealed one person at a time."
     }
   ]
 }
