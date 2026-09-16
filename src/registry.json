@@ -2088,6 +2088,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "A-series and US paper dimensions in mm, inches and pixels at any DPI, plus how many fit inside."
+    },
+    {
+      "slug": "chinese-zodiac-calculator",
+      "name": "Chinese Zodiac Calculator",
+      "category": "Other",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Your Chinese zodiac animal and element from your birth year, and your next zodiac year."
     }
   ]
 }
