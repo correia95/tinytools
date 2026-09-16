@@ -2079,6 +2079,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Track shared trip expenses paid by different people and see who owes whom, in the fewest payments."
+    },
+    {
+      "slug": "paper-size-calculator",
+      "name": "Paper Size Calculator",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "A-series and US paper dimensions in mm, inches and pixels at any DPI, plus how many fit inside."
     }
   ]
 }
