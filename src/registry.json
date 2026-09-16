@@ -2034,6 +2034,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Work out your target emergency fund from your own essential expenses, and when you'll reach it."
+    },
+    {
+      "slug": "break-even-calculator",
+      "name": "Break-Even Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Find the units and revenue needed to cover your fixed costs, plus profit at any volume."
     }
   ]
 }
