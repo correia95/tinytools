@@ -2304,6 +2304,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Return on ad spend vs. the break-even ROAS your margin requires, plus profit."
+    },
+    {
+      "slug": "tip-pool-calculator",
+      "name": "Tip Pool Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Split a pooled tip amount among staff by hours worked and role weight."
     }
   ]
 }
