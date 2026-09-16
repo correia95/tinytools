@@ -2169,6 +2169,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Current time in cities around the world, with each one's difference from yours."
+    },
+    {
+      "slug": "debt-to-income-calculator",
+      "name": "Debt-to-Income Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Front-end and back-end DTI ratio, the metrics lenders use to assess loans."
     }
   ]
 }
