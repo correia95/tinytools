@@ -2106,6 +2106,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Random gift-exchange pairings with exclusions (like couples), revealed one person at a time."
+    },
+    {
+      "slug": "round-robin-scheduler",
+      "name": "Round-Robin Scheduler",
+      "category": "Productivity",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "A schedule where every participant plays every other exactly once, with automatic byes."
     }
   ]
 }
