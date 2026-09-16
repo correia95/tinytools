@@ -2241,6 +2241,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Pay-per-visit parking vs. a weekly, monthly, or annual pass, with the break-even point."
+    },
+    {
+      "slug": "sod-calculator",
+      "name": "Sod Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "How much turf you need for a lawn, in rolls or pallets, with wastage and cost."
     }
   ]
 }
