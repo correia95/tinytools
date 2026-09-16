@@ -2025,6 +2025,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Single-player Othello (Reversi) against a minimax AI with correct flanking rules."
+    },
+    {
+      "slug": "emergency-fund-calculator",
+      "name": "Emergency Fund Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Work out your target emergency fund from your own essential expenses, and when you'll reach it."
     }
   ]
 }
