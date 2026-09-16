@@ -2052,6 +2052,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "How many months of cash you have left at your burn rate, and what it'd take to extend it."
+    },
+    {
+      "slug": "tournament-bracket-generator",
+      "name": "Tournament Bracket Generator",
+      "category": "Productivity",
+      "action": "Generate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Single-elimination brackets from a list of names, with automatic byes and click-to-advance winners."
     }
   ]
 }
