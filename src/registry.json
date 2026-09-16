@@ -1935,6 +1935,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "A simple task board: add columns, add cards, move cards between them. Autosaved, with a shareable link."
+    },
+    {
+      "slug": "cricket-nrr-calculator",
+      "name": "Cricket Net Run Rate Calculator",
+      "category": "Sports",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-16",
+      "description": "Calculate cumulative Net Run Rate across a tournament, handling the all-out rule correctly."
     }
   ]
 }
