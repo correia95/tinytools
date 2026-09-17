@@ -2358,6 +2358,15 @@
       "featured": false,
       "launched": "2026-09-17",
       "description": "Post-money valuation, new investor stake, and diluted shareholder ownership."
+    },
+    {
+      "slug": "car-lease-vs-buy-calculator",
+      "name": "Car Lease vs. Buy Calculator",
+      "category": "Cars",
+      "action": "Compare",
+      "featured": false,
+      "launched": "2026-09-17",
+      "description": "Total cash cost of leasing vs. buying the same car over the same period."
     }
   ]
 }
