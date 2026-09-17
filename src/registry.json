@@ -2376,6 +2376,15 @@
       "featured": false,
       "launched": "2026-09-17",
       "description": "The surprisingly high probability that two people in a group share a birthday."
+    },
+    {
+      "slug": "invoice-late-fee-calculator",
+      "name": "Invoice Late Fee Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-17",
+      "description": "Late fee and total due on an overdue invoice, from an annual rate and grace period."
     }
   ]
 }
