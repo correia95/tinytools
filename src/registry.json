@@ -2367,6 +2367,15 @@
       "featured": false,
       "launched": "2026-09-17",
       "description": "Total cash cost of leasing vs. buying the same car over the same period."
+    },
+    {
+      "slug": "birthday-paradox-calculator",
+      "name": "Birthday Paradox Calculator",
+      "category": "Other",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-17",
+      "description": "The surprisingly high probability that two people in a group share a birthday."
     }
   ]
 }
