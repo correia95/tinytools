@@ -2394,6 +2394,15 @@
       "featured": false,
       "launched": "2026-09-17",
       "description": "Solve for cycling speed, distance, or time, given the other two."
+    },
+    {
+      "slug": "fuel-range-calculator",
+      "name": "Fuel Range Calculator",
+      "category": "Cars",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-17",
+      "description": "How far you can drive from tank size, current fuel level, and fuel economy."
     }
   ]
 }
