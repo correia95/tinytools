@@ -2349,6 +2349,15 @@
       "featured": false,
       "launched": "2026-09-16",
       "description": "Find your Western zodiac sun sign, element, modality, and ruling planet."
+    },
+    {
+      "slug": "equity-dilution-calculator",
+      "name": "Equity Dilution Calculator",
+      "category": "Business",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-17",
+      "description": "Post-money valuation, new investor stake, and diluted shareholder ownership."
     }
   ]
 }
