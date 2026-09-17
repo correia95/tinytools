@@ -2385,6 +2385,15 @@
       "featured": false,
       "launched": "2026-09-17",
       "description": "Late fee and total due on an overdue invoice, from an annual rate and grace period."
+    },
+    {
+      "slug": "cycling-speed-calculator",
+      "name": "Cycling Speed Calculator",
+      "category": "Sports",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-17",
+      "description": "Solve for cycling speed, distance, or time, given the other two."
     }
   ]
 }
