@@ -2583,6 +2583,15 @@
       "featured": false,
       "launched": "2026-09-18",
       "description": "Work out your loan-to-value ratio, deposit, and Lenders Mortgage Insurance risk band for a home loan."
+    },
+    {
+      "slug": "borrowing-power-calculator",
+      "name": "Borrowing Power Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-19",
+      "description": "Estimate roughly how much a lender might let you borrow, from your income, expenses, debts and interest rate."
     }
   ]
 }
