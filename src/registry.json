@@ -2592,6 +2592,15 @@
       "featured": false,
       "launched": "2026-09-19",
       "description": "Estimate roughly how much a lender might let you borrow, from your income, expenses, debts and interest rate."
+    },
+    {
+      "slug": "property-deposit-calculator",
+      "name": "Property Deposit Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-19",
+      "description": "Work out how long it'll take to save a house deposit, or the monthly contribution needed to reach it."
     }
   ]
 }

@@ -289,4 +289,5 @@
   <url><loc>https://bsb-formatter.correia95.workers.dev/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://lvr-calculator.correia95.workers.dev/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://borrowing-power-calculator.correia95.workers.dev/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://property-deposit-calculator.correia95.workers.dev/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
