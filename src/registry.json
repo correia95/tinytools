@@ -2601,6 +2601,15 @@
       "featured": false,
       "launched": "2026-09-19",
       "description": "Work out how long it'll take to save a house deposit, or the monthly contribution needed to reach it."
+    },
+    {
+      "slug": "brick-calculator",
+      "name": "Brick Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-19",
+      "description": "How many bricks and mortar bags you need for a wall, from its size and brick dimensions."
     }
   ]
 }
