@@ -2610,6 +2610,15 @@
       "featured": false,
       "launched": "2026-09-19",
       "description": "How many bricks and mortar bags you need for a wall, from its size and brick dimensions."
+    },
+    {
+      "slug": "decking-calculator",
+      "name": "Decking Calculator",
+      "category": "Construction",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-19",
+      "description": "Boards, joists and screws needed for a timber deck, from its size and board spacing."
     }
   ]
 }
