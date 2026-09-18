@@ -231,7 +231,7 @@
       "name": "Paint Calculator",
       "category": "Construction",
       "action": "Calculate",
-      "featured": false,
+      "featured": true,
       "launched": "2026-09-07",
       "description": "How many litres and tins of paint a room or wall needs, after doors, windows and coats."
     },
@@ -402,7 +402,7 @@
       "name": "Pomodoro Timer",
       "category": "Productivity",
       "action": "Start",
-      "featured": false,
+      "featured": true,
       "launched": "2026-09-07",
       "description": "A focus timer for the Pomodoro technique: adjustable 25/5/15 focus and break cycle, chime, tab-title countdown and a daily count."
     },
@@ -483,7 +483,7 @@
       "name": "Fuel Cost Calculator",
       "category": "Cars",
       "action": "Calculate",
-      "featured": false,
+      "featured": true,
       "launched": "2026-09-07",
       "description": "What a trip costs in fuel, from distance, economy and pump price. Metric or MPG, split between passengers."
     },
@@ -1921,7 +1921,7 @@
     {
       "slug": "invoice-generator",
       "name": "Invoice Generator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Create",
       "featured": false,
       "launched": "2026-09-16",
@@ -2038,7 +2038,7 @@
     {
       "slug": "break-even-calculator",
       "name": "Break-Even Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2047,7 +2047,7 @@
     {
       "slug": "startup-runway-calculator",
       "name": "Startup Runway Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2119,7 +2119,7 @@
     {
       "slug": "ltv-cac-calculator",
       "name": "LTV / CAC Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2182,7 +2182,7 @@
     {
       "slug": "ab-test-calculator",
       "name": "A/B Test Significance Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2191,7 +2191,7 @@
     {
       "slug": "recipe-cost-calculator",
       "name": "Recipe Cost Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2200,7 +2200,7 @@
     {
       "slug": "vesting-schedule-calculator",
       "name": "Vesting Schedule Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2218,7 +2218,7 @@
     {
       "slug": "sales-commission-calculator",
       "name": "Sales Commission Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2272,7 +2272,7 @@
     {
       "slug": "churn-rate-calculator",
       "name": "Churn Rate Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2281,7 +2281,7 @@
     {
       "slug": "payback-period-calculator",
       "name": "Payback Period Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2299,7 +2299,7 @@
     {
       "slug": "roas-calculator",
       "name": "ROAS Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2308,7 +2308,7 @@
     {
       "slug": "tip-pool-calculator",
       "name": "Tip Pool Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
@@ -2353,7 +2353,7 @@
     {
       "slug": "equity-dilution-calculator",
       "name": "Equity Dilution Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-17",
@@ -2380,7 +2380,7 @@
     {
       "slug": "invoice-late-fee-calculator",
       "name": "Invoice Late Fee Calculator",
-      "category": "Business",
+      "category": "Finance",
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-17",
@@ -2403,6 +2403,186 @@
       "featured": false,
       "launched": "2026-09-17",
       "description": "How far you can drive from tank size, current fuel level, and fuel economy."
+    },
+    {
+      "slug": "image-cropper",
+      "name": "Image Cropper",
+      "category": "Tools",
+      "action": "Crop",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Crop a photo to any size or aspect ratio — drag to reposition, drag a handle to resize. Nothing is uploaded."
+    },
+    {
+      "slug": "image-metadata-viewer",
+      "name": "Image Metadata Viewer",
+      "category": "Tools",
+      "action": "Inspect",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "File info and EXIF data for a photo — camera, date taken, exposure, ISO and GPS if present. Nothing is uploaded."
+    },
+    {
+      "slug": "audio-duration-calculator",
+      "name": "Audio Duration Calculator",
+      "category": "Tools",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Total and per-file runtime for one or many audio files — handy for a podcast or checking clips fit a time limit. Nothing is uploaded."
+    },
+    {
+      "slug": "audio-trimmer",
+      "name": "Audio Trimmer",
+      "category": "Tools",
+      "action": "Trim",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Cut a clip out of an MP3, WAV, OGG, M4A or FLAC file — drag the waveform or type exact times, preview, then download. Nothing is uploaded."
+    },
+    {
+      "slug": "audio-speed-changer",
+      "name": "Audio Speed Changer",
+      "category": "Tools",
+      "action": "Change",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Speed up or slow down an audio file, 0.25x to 3x — like a tape or turntable. Preview and download. Nothing is uploaded."
+    },
+    {
+      "slug": "video-metadata-viewer",
+      "name": "Video Metadata Viewer",
+      "category": "Tools",
+      "action": "Inspect",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "File info for a video — duration, resolution, aspect ratio, container format and an estimated bitrate. Nothing is uploaded."
+    },
+    {
+      "slug": "video-frame-grabber",
+      "name": "Video Frame Grabber",
+      "category": "Tools",
+      "action": "Grab",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Scrub to any moment in a video and save that exact frame as a PNG or JPEG, at full resolution. Nothing is uploaded."
+    },
+    {
+      "slug": "mute-video",
+      "name": "Mute Video",
+      "category": "Tools",
+      "action": "Mute",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Remove the audio track from a video and download a silent version. Nothing is uploaded."
+    },
+    {
+      "slug": "images-to-pdf",
+      "name": "Images to PDF",
+      "category": "Tools",
+      "action": "Combine",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Combine JPG and PNG images into one PDF — drag to reorder, choose page size and margins. Nothing is uploaded."
+    },
+    {
+      "slug": "merge-pdf",
+      "name": "Merge PDF",
+      "category": "Tools",
+      "action": "Merge",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Combine multiple PDF files into one, in the order you choose — drag to reorder, then download. Nothing is uploaded."
+    },
+    {
+      "slug": "pdf-page-organizer",
+      "name": "PDF Page Organizer",
+      "category": "Tools",
+      "action": "Organize",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Reorder, rotate, remove or extract pages from a PDF — drag thumbnails, click to exclude, then save. Nothing is uploaded."
+    },
+    {
+      "slug": "pdf-metadata-viewer",
+      "name": "PDF Metadata Viewer",
+      "category": "Tools",
+      "action": "Inspect",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Title, author, page count, page size and file size for a PDF. Nothing is uploaded."
+    },
+    {
+      "slug": "pdf-page-numbers",
+      "name": "PDF Page Numbering",
+      "category": "Tools",
+      "action": "Number",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Add page numbers to a PDF — position, format and starting number. Nothing is uploaded."
+    },
+    {
+      "slug": "pdf-to-images",
+      "name": "PDF to Images",
+      "category": "Tools",
+      "action": "Export",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Export every page of a PDF as a JPG or PNG at 96/150/300 DPI. Nothing is uploaded."
+    },
+    {
+      "slug": "pdf-to-text",
+      "name": "PDF to Text",
+      "category": "Tools",
+      "action": "Extract",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Extract the text from a PDF — copy it or download as a .txt file. Nothing is uploaded."
+    },
+    {
+      "slug": "compress-pdf",
+      "name": "Compress PDF",
+      "category": "Tools",
+      "action": "Compress",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Shrink a PDF by recompressing its embedded JPEG images — shows the real before/after size, honestly. Nothing is uploaded."
+    },
+    {
+      "slug": "video-to-audio",
+      "name": "Video to Audio",
+      "category": "Tools",
+      "action": "Extract",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Extract the audio track from a video as a WAV file. Nothing is uploaded."
+    },
+    {
+      "slug": "abn-validator",
+      "name": "ABN Validator",
+      "category": "Finance",
+      "action": "Check",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Check whether an Australian Business Number is valid using the ATO checksum algorithm. No lookup, runs in your browser."
+    },
+    {
+      "slug": "bsb-formatter",
+      "name": "BSB Formatter",
+      "category": "Finance",
+      "action": "Check",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Format an Australian BSB and identify the big-four banks' known prefixes. No lookup, runs in your browser."
+    },
+    {
+      "slug": "lvr-calculator",
+      "name": "LVR Calculator",
+      "category": "Finance",
+      "action": "Calculate",
+      "featured": false,
+      "launched": "2026-09-18",
+      "description": "Work out your loan-to-value ratio, deposit, and Lenders Mortgage Insurance risk band for a home loan."
     }
   ]
 }
