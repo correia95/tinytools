@@ -2619,6 +2619,15 @@
       "featured": false,
       "launched": "2026-09-19",
       "description": "Boards, joists and screws needed for a timber deck, from its size and board spacing."
+    },
+    {
+      "slug": "linear-to-square-metres-calculator",
+      "name": "Linear to Square Metres Calculator",
+      "category": "Construction",
+      "action": "Convert",
+      "featured": false,
+      "launched": "2026-09-21",
+      "description": "Convert linear metres to square metres and price per linear metre to price per m² for fixed-width materials."
     }
   ]
 }
