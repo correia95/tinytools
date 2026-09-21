@@ -2637,6 +2637,15 @@
       "featured": false,
       "launched": "2026-09-21",
       "description": "What a car really costs per week, month, year and km — fuel, depreciation, insurance, rego, servicing and more."
+    },
+    {
+      "slug": "video-to-gif",
+      "name": "Video to GIF",
+      "category": "Tools",
+      "action": "Convert",
+      "featured": false,
+      "launched": "2026-09-21",
+      "description": "Turn part of a video into an animated GIF — pick the start, length, frame rate and width. Nothing is uploaded."
     }
   ]
 }
