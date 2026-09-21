@@ -35,7 +35,8 @@
       "action": "Check",
       "featured": false,
       "launched": "2026-09-06",
-      "description": "Offline crack-time estimate for a password, plus a strong passphrase generator. Nothing leaves your device."
+      "description": "Offline crack-time estimate for a password, plus a strong passphrase generator. Nothing leaves your device.",
+      "url": "https://password-generator.correia95.workers.dev/password-strength-checker/"
     },
     {
       "slug": "click-speed-test",
@@ -53,7 +54,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-06",
-      "description": "Concrete volume in m³, bags and cost for slabs, footings, columns and post holes."
+      "description": "Concrete volume in m³, bags and cost for slabs, footings, columns and post holes.",
+      "url": "https://fence-calculator.correia95.workers.dev/concrete-calculator-au/"
     },
     {
       "slug": "tier-list-maker",
@@ -71,7 +73,8 @@
       "action": "Spin",
       "featured": false,
       "launched": "2026-09-06",
-      "description": "A random picker and decision wheel. Add options, spin, share the wheel by link."
+      "description": "A random picker and decision wheel. Add options, spin, share the wheel by link.",
+      "url": "https://random-number-generator.correia95.workers.dev/spin-the-wheel/"
     },
     {
       "slug": "compound-interest-calculator",
@@ -98,7 +101,8 @@
       "action": "Check",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "WCAG colour contrast ratio with a live preview and a suggested accessible fix."
+      "description": "WCAG colour contrast ratio with a live preview and a suggested accessible fix.",
+      "url": "https://color-converter.correia95.workers.dev/contrast-checker/"
     },
     {
       "slug": "cooking-converter",
@@ -107,7 +111,8 @@
       "action": "Convert",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Ingredient-aware cups ↔ grams ↔ ml ↔ ounces, plus oven-temperature conversions."
+      "description": "Ingredient-aware cups ↔ grams ↔ ml ↔ ounces, plus oven-temperature conversions.",
+      "url": "https://recipe-scaler.correia95.workers.dev/cooking-converter/"
     },
     {
       "slug": "life-in-weeks",
@@ -116,7 +121,8 @@
       "action": "See yours",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "How many days you've been alive, and a 90-year life drawn as a grid of weeks."
+      "description": "How many days you've been alive, and a 90-year life drawn as a grid of weeks.",
+      "url": "https://date-calculator.correia95.workers.dev/life-in-weeks/"
     },
     {
       "slug": "car-depreciation-calculator",
@@ -152,7 +158,8 @@
       "action": "Try it",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Turn any cron schedule into plain English and see the next seven run times in your timezone."
+      "description": "Turn any cron schedule into plain English and see the next seven run times in your timezone.",
+      "url": "https://cron-expression-generator.correia95.workers.dev/cron-helper/"
     },
     {
       "slug": "epoch-converter",
@@ -161,7 +168,8 @@
       "action": "Convert",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Unix timestamp ↔ date, auto-detecting seconds, milliseconds, microseconds or nanoseconds. Local and UTC."
+      "description": "Unix timestamp ↔ date, auto-detecting seconds, milliseconds, microseconds or nanoseconds. Local and UTC.",
+      "url": "https://date-calculator.correia95.workers.dev/epoch-converter/"
     },
     {
       "slug": "qr-generator",
@@ -206,7 +214,8 @@
       "action": "Plan",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Add your team's cities and slide through the day to find an hour that works for everyone. Daylight saving handled."
+      "description": "Add your team's cities and slide through the day to find an hour that works for everyone. Daylight saving handled.",
+      "url": "https://world-clock.correia95.workers.dev/timezone-meeting-planner/"
     },
     {
       "slug": "super-calculator-au",
@@ -215,7 +224,8 @@
       "action": "Project it",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Project your Australian super balance at retirement in today's dollars, and test what salary sacrifice would do."
+      "description": "Project your Australian super balance at retirement in today's dollars, and test what salary sacrifice would do.",
+      "url": "https://compound-interest-calculator.correia95.workers.dev/super-calculator-au/"
     },
     {
       "slug": "minesweeper",
@@ -314,7 +324,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "How many tiles for a floor or wall — with grout gaps, wastage, whole boxes, and adhesive & grout estimates."
+      "description": "How many tiles for a floor or wall — with grout gaps, wastage, whole boxes, and adhesive & grout estimates.",
+      "url": "https://paint-calculator.correia95.workers.dev/tile-calculator/"
     },
     {
       "slug": "random-number-generator",
@@ -341,7 +352,8 @@
       "action": "Start one",
       "featured": true,
       "launched": "2026-09-07",
-      "description": "Count down to any date and time and share the link — everyone who opens it sees the same live countdown."
+      "description": "Count down to any date and time and share the link — everyone who opens it sees the same live countdown.",
+      "url": "https://stopwatch.correia95.workers.dev/countdown-timer/"
     },
     {
       "slug": "base64-encoder",
@@ -404,7 +416,8 @@
       "action": "Start",
       "featured": true,
       "launched": "2026-09-07",
-      "description": "A focus timer for the Pomodoro technique: adjustable 25/5/15 focus and break cycle, chime, tab-title countdown and a daily count."
+      "description": "A focus timer for the Pomodoro technique: adjustable 25/5/15 focus and break cycle, chime, tab-title countdown and a daily count.",
+      "url": "https://stopwatch.correia95.workers.dev/pomodoro-timer/"
     },
     {
       "slug": "sleep-calculator",
@@ -422,7 +435,8 @@
       "action": "Roll",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Roll d20, 2d6+3, 4d6kh3 and any dice notation, with advantage/disadvantage, a history and fair secure-random results."
+      "description": "Roll d20, 2d6+3, 4d6kh3 and any dice notation, with advantage/disadvantage, a history and fair secure-random results.",
+      "url": "https://random-number-generator.correia95.workers.dev/dice-roller/"
     },
     {
       "slug": "date-calculator",
@@ -440,7 +454,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Work out the tip and split the bill between any number of people, with optional rounding. Any currency."
+      "description": "Work out the tip and split the bill between any number of people, with optional rounding. Any currency.",
+      "url": "https://bill-splitter.correia95.workers.dev/tip-calculator/"
     },
     {
       "slug": "number-base-converter",
@@ -494,7 +509,8 @@
       "action": "Generate",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Pick a colour, choose a harmony, get a five-colour palette. Copy hex codes and share by link."
+      "description": "Pick a colour, choose a harmony, get a five-colour palette. Copy hex codes and share by link.",
+      "url": "https://color-converter.correia95.workers.dev/color-palette-generator/"
     },
     {
       "slug": "word-unscrambler",
@@ -530,7 +546,8 @@
       "action": "Generate",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Generate v4 and v7 UUIDs (GUIDs) in bulk, with hyphen, case and brace toggles and a version inspector."
+      "description": "Generate v4 and v7 UUIDs (GUIDs) in bulk, with hyphen, case and brace toggles and a version inspector.",
+      "url": "https://password-generator.correia95.workers.dev/uuid-generator/"
     },
     {
       "slug": "markdown-preview",
@@ -575,7 +592,8 @@
       "action": "Generate",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Turn a title into a clean URL slug: lowercase, hyphenated, accents flattened. Separator and length options, bulk mode."
+      "description": "Turn a title into a clean URL slug: lowercase, hyphenated, accents flattened. Separator and length options, bulk mode.",
+      "url": "https://case-converter.correia95.workers.dev/slug-generator/"
     },
     {
       "slug": "calorie-calculator",
@@ -602,7 +620,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Sale price after one or more discounts, and how much you save. Percentage or fixed amount, stacked or summed, optional tax."
+      "description": "Sale price after one or more discounts, and how much you save. Percentage or fixed amount, stacked or summed, optional tax.",
+      "url": "https://percentage-calculator.correia95.workers.dev/discount-calculator/"
     },
     {
       "slug": "color-memory",
@@ -629,7 +648,8 @@
       "action": "Compare",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Paste two versions of some text and see what changed line by line, with the differing words highlighted."
+      "description": "Paste two versions of some text and see what changed line by line, with the differing words highlighted.",
+      "url": "https://text-cleaner.correia95.workers.dev/text-diff/"
     },
     {
       "slug": "plate-calculator",
@@ -638,7 +658,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-07",
-      "description": "Enter the weight you want on the barbell and see which plates to load on each side, heaviest first. kg or lb."
+      "description": "Enter the weight you want on the barbell and see which plates to load on each side, heaviest first. kg or lb.",
+      "url": "https://one-rep-max-calculator.correia95.workers.dev/plate-calculator/"
     },
     {
       "slug": "password-generator",
@@ -665,7 +686,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Work out the hours between a start and end time, minus breaks, as h:mm and decimal hours for a timesheet. Overnight shifts, a weekly timesheet and an optional pay rate with overtime."
+      "description": "Work out the hours between a start and end time, minus breaks, as h:mm and decimal hours for a timesheet. Overnight shifts, a weekly timesheet and an optional pay rate with overtime.",
+      "url": "https://date-calculator.correia95.workers.dev/hours-calculator/"
     },
     {
       "slug": "hash-generator",
@@ -674,7 +696,8 @@
       "action": "Generate",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Generate MD5, SHA-1, SHA-256, SHA-384, SHA-512 and CRC32 hashes of any text or file. Live as you type, hex or Base64, HMAC and a compare box. Nothing is uploaded."
+      "description": "Generate MD5, SHA-1, SHA-256, SHA-384, SHA-512 and CRC32 hashes of any text or file. Live as you type, hex or Base64, HMAC and a compare box. Nothing is uploaded.",
+      "url": "https://password-generator.correia95.workers.dev/hash-generator/"
     },
     {
       "slug": "lorem-ipsum-generator",
@@ -701,7 +724,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Your exact age in years, months and days from your date of birth, with totals in weeks and hours, the weekday you were born and a countdown to your next birthday."
+      "description": "Your exact age in years, months and days from your date of birth, with totals in weeks and hours, the weekday you were born and a countdown to your next birthday.",
+      "url": "https://date-calculator.correia95.workers.dev/age-calculator/"
     },
     {
       "slug": "binary-translator",
@@ -710,7 +734,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Translate text to binary and binary to text, plus hexadecimal, decimal and octal. Two-way, full Unicode, with a character-by-character table."
+      "description": "Translate text to binary and binary to text, plus hexadecimal, decimal and octal. Two-way, full Unicode, with a character-by-character table.",
+      "url": "https://morse-code-translator.correia95.workers.dev/binary-translator/"
     },
     {
       "slug": "fraction-calculator",
@@ -719,7 +744,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Add, subtract, multiply and divide fractions and mixed numbers, with the answer as a fraction, mixed number, decimal and percent, plus the working. Also simplifies and converts."
+      "description": "Add, subtract, multiply and divide fractions and mixed numbers, with the answer as a fraction, mixed number, decimal and percent, plus the working. Also simplifies and converts.",
+      "url": "https://gcf-lcm-calculator.correia95.workers.dev/fraction-calculator/"
     },
     {
       "slug": "morse-code-translator",
@@ -746,7 +772,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Convert CSV to JSON and JSON to CSV in your browser. Quoted fields, custom delimiters, header row and number/boolean detection. Nothing uploaded."
+      "description": "Convert CSV to JSON and JSON to CSV in your browser. Quoted fields, custom delimiters, header row and number/boolean detection. Nothing uploaded.",
+      "url": "https://json-formatter.correia95.workers.dev/csv-json-converter/"
     },
     {
       "slug": "image-to-base64",
@@ -755,7 +782,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Convert an image to a Base64 data URI for HTML, CSS or Markdown, or decode a data URI back to a downloadable image. The file never leaves your browser."
+      "description": "Convert an image to a Base64 data URI for HTML, CSS or Markdown, or decode a data URI back to a downloadable image. The file never leaves your browser.",
+      "url": "https://base64-encoder.correia95.workers.dev/image-to-base64/"
     },
     {
       "slug": "chmod-calculator",
@@ -764,7 +792,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Unix file permission calculator: tick read/write/execute for owner, group and others to get the octal number, ls -l string and chmod command. setuid/setgid/sticky, two-way."
+      "description": "Unix file permission calculator: tick read/write/execute for owner, group and others to get the octal number, ls -l string and chmod command. setuid/setgid/sticky, two-way.",
+      "url": "https://subnet-calculator.correia95.workers.dev/chmod-calculator/"
     },
     {
       "slug": "scientific-calculator",
@@ -800,7 +829,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Build a layered CSS box-shadow — offset, blur, spread, colour, opacity, inset — with a live preview, presets and copyable CSS. Shareable URL."
+      "description": "Build a layered CSS box-shadow — offset, blur, spread, colour, opacity, inset — with a live preview, presets and copyable CSS. Shareable URL.",
+      "url": "https://gradient-generator.correia95.workers.dev/box-shadow-generator/"
     },
     {
       "slug": "cubic-bezier",
@@ -809,7 +839,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Shape a CSS cubic-bezier easing curve by dragging two handles, with a live animation preview, overshoot, presets and a shareable URL."
+      "description": "Shape a CSS cubic-bezier easing curve by dragging two handles, with a live animation preview, overshoot, presets and a shareable URL.",
+      "url": "https://gradient-generator.correia95.workers.dev/cubic-bezier/"
     },
     {
       "slug": "bill-splitter",
@@ -827,7 +858,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Decode a JSON Web Token header and payload, read claims as dates with expiry status, and verify an HMAC signature. Client-side, nothing uploaded."
+      "description": "Decode a JSON Web Token header and payload, read claims as dates with expiry status, and verify an HMAC signature. Client-side, nothing uploaded.",
+      "url": "https://password-generator.correia95.workers.dev/jwt-decoder/"
     },
     {
       "slug": "html-entities",
@@ -836,7 +868,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Encode text to HTML entities or decode entities back to text — minimal, named, or full numeric (dec/hex). With a reference table."
+      "description": "Encode text to HTML entities or decode entities back to text — minimal, named, or full numeric (dec/hex). With a reference table.",
+      "url": "https://base64-encoder.correia95.workers.dev/html-entities/"
     },
     {
       "slug": "text-sorter",
@@ -845,7 +878,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Sort a list of lines alphabetically, numerically, by length or naturally. Remove blanks and duplicates, trim, shuffle, change case."
+      "description": "Sort a list of lines alphabetically, numerically, by length or naturally. Remove blanks and duplicates, trim, shuffle, change case.",
+      "url": "https://text-cleaner.correia95.workers.dev/text-sorter/"
     },
     {
       "slug": "markdown-table-generator",
@@ -854,7 +888,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Build a table in a grid, set column alignment, and copy it as Markdown, HTML, CSV or TSV. Paste an existing table to edit it. Live preview."
+      "description": "Build a table in a grid, set column alignment, and copy it as Markdown, HTML, CSV or TSV. Paste an existing table to edit it. Live preview.",
+      "url": "https://markdown-preview.correia95.workers.dev/markdown-table-generator/"
     },
     {
       "slug": "margin-calculator",
@@ -863,7 +898,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Enter any two of cost, price, gross margin and markup — get the rest, plus profit per unit. Margin vs markup, explained."
+      "description": "Enter any two of cost, price, gross margin and markup — get the rest, plus profit per unit. Margin vs markup, explained.",
+      "url": "https://percentage-calculator.correia95.workers.dev/margin-calculator/"
     },
     {
       "slug": "px-to-rem-converter",
@@ -872,7 +908,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Convert between px, rem, em, pt and % for CSS against a base font size. Reference table, click-to-copy."
+      "description": "Convert between px, rem, em, pt and % for CSS against a base font size. Reference table, click-to-copy.",
+      "url": "https://gradient-generator.correia95.workers.dev/px-to-rem-converter/"
     },
     {
       "slug": "data-size-converter",
@@ -881,7 +918,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Convert bytes, KB/MB/GB/TB, binary KiB/MiB/GiB and bits. Shows why a 1 TB drive reads as 931 GB."
+      "description": "Convert bytes, KB/MB/GB/TB, binary KiB/MiB/GiB and bits. Shows why a 1 TB drive reads as 931 GB.",
+      "url": "https://unit-converter.correia95.workers.dev/data-size-converter/"
     },
     {
       "slug": "coin-flip",
@@ -890,7 +928,8 @@
       "action": "Flip",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Flip a coin online — heads or tails, cryptographically fair. One coin or 50 at once, with a running tally."
+      "description": "Flip a coin online — heads or tails, cryptographically fair. One coin or 50 at once, with a running tally.",
+      "url": "https://random-number-generator.correia95.workers.dev/coin-flip/"
     },
     {
       "slug": "time-duration-calculator",
@@ -899,7 +938,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Add and subtract durations (1h 30m, 2:15, 90m), or find the time between two clock times."
+      "description": "Add and subtract durations (1h 30m, 2:15, 90m), or find the time between two clock times.",
+      "url": "https://date-calculator.correia95.workers.dev/time-duration-calculator/"
     },
     {
       "slug": "average-calculator",
@@ -917,7 +957,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Simplify a ratio, solve A : B = C : D for a missing value, or scale a ratio. Handles decimals."
+      "description": "Simplify a ratio, solve A : B = C : D for a missing value, or scale a ratio. Handles decimals.",
+      "url": "https://percentage-calculator.correia95.workers.dev/ratio-calculator/"
     },
     {
       "slug": "grade-calculator",
@@ -926,7 +967,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-08",
-      "description": "Your weighted course grade from each assignment, or the score you need on the final exam."
+      "description": "Your weighted course grade from each assignment, or the score you need on the final exam.",
+      "url": "https://gpa-calculator.correia95.workers.dev/grade-calculator/"
     },
     {
       "slug": "number-to-words",
@@ -953,7 +995,8 @@
       "action": "Play",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "The classic word-guessing game — a shared daily word across ten categories, plus unlimited free play."
+      "description": "The classic word-guessing game — a shared daily word across ten categories, plus unlimited free play.",
+      "url": "https://word-unscrambler.correia95.workers.dev/hangman/"
     },
     {
       "slug": "text-cleaner",
@@ -971,7 +1014,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Fluid typography and spacing — two viewport/size points become a clamp() expression, with a live preview."
+      "description": "Fluid typography and spacing — two viewport/size points become a clamp() expression, with a live preview.",
+      "url": "https://gradient-generator.correia95.workers.dev/css-clamp-generator/"
     },
     {
       "slug": "svg-url-encoder",
@@ -980,7 +1024,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Turn an SVG into a compact data URI for CSS background-image — URL-encoded and base64, with a preview."
+      "description": "Turn an SVG into a compact data URI for CSS background-image — URL-encoded and base64, with a preview.",
+      "url": "https://base64-encoder.correia95.workers.dev/svg-url-encoder/"
     },
     {
       "slug": "calories-burned-calculator",
@@ -989,7 +1034,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Estimate calories burned from an activity, your body weight and time — 43 activities, MET-based."
+      "description": "Estimate calories burned from an activity, your body weight and time — 43 activities, MET-based.",
+      "url": "https://calorie-calculator.correia95.workers.dev/calories-burned-calculator/"
     },
     {
       "slug": "url-parser",
@@ -998,7 +1044,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Break a URL into its parts, edit the query string in a table, rebuild it, and get JSON."
+      "description": "Break a URL into its parts, edit the query string in a table, rebuild it, and get JSON.",
+      "url": "https://meta-tags-generator.correia95.workers.dev/url-parser/"
     },
     {
       "slug": "ascii-table",
@@ -1007,7 +1054,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Every character code 0-255 with decimal, hex, octal, binary, HTML entity and description. Searchable."
+      "description": "Every character code 0-255 with decimal, hex, octal, binary, HTML entity and description. Searchable.",
+      "url": "https://number-base-converter.correia95.workers.dev/ascii-table/"
     },
     {
       "slug": "image-resizer",
@@ -1025,7 +1073,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Build a printable word search from your own words — grid size, diagonals, answer key, shareable link."
+      "description": "Build a printable word search from your own words — grid size, diagonals, answer key, shareable link.",
+      "url": "https://word-unscrambler.correia95.workers.dev/word-search-maker/"
     },
     {
       "slug": "cron-expression-generator",
@@ -1043,7 +1092,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Infer TypeScript interfaces from a JSON sample — merged array shapes, optional fields, unions."
+      "description": "Infer TypeScript interfaces from a JSON sample — merged array shapes, optional fields, unions.",
+      "url": "https://json-formatter.correia95.workers.dev/json-to-typescript/"
     },
     {
       "slug": "dog-age-calculator",
@@ -1061,7 +1111,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Wind chill, heat index and dew point from temperature, humidity and wind — NWS formulas."
+      "description": "Wind chill, heat index and dew point from temperature, humidity and wind — NWS formulas.",
+      "url": "https://moon-phase-calculator.correia95.workers.dev/feels-like-temperature/"
     },
     {
       "slug": "snake-game",
@@ -1097,7 +1148,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Make a favicon from an emoji, letters or an image — every size, plus the head tags and web manifest."
+      "description": "Make a favicon from an emoji, letters or an image — every size, plus the head tags and web manifest.",
+      "url": "https://meta-tags-generator.correia95.workers.dev/favicon-generator/"
     },
     {
       "slug": "vat-calculator",
@@ -1106,7 +1158,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Add or remove VAT at any rate, with country presets for the UK, Ireland, Germany, France and more."
+      "description": "Add or remove VAT at any rate, with country presets for the UK, Ireland, Germany, France and more.",
+      "url": "https://gst-calculator-au.correia95.workers.dev/vat-calculator/"
     },
     {
       "slug": "mulch-calculator",
@@ -1115,7 +1168,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "How much mulch, topsoil, compost or gravel you need for a garden bed — bags and bulk."
+      "description": "How much mulch, topsoil, compost or gravel you need for a garden bed — bags and bulk.",
+      "url": "https://gravel-calculator.correia95.workers.dev/mulch-calculator/"
     },
     {
       "slug": "week-number",
@@ -1124,7 +1178,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "What ISO 8601 week is it? The current week number, plus the week for any date and a month calendar."
+      "description": "What ISO 8601 week is it? The current week number, plus the week for any date and a month calendar.",
+      "url": "https://date-calculator.correia95.workers.dev/week-number/"
     },
     {
       "slug": "tic-tac-toe",
@@ -1151,7 +1206,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Count the significant figures in a number and round to N sig figs or decimal places, with the rules and the working shown."
+      "description": "Count the significant figures in a number and round to N sig figs or decimal places, with the rules and the working shown.",
+      "url": "https://scientific-calculator.correia95.workers.dev/significant-figures-calculator/"
     },
     {
       "slug": "gcf-lcm-calculator",
@@ -1169,7 +1225,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Risers, riser height, tread run, total run, stringer length and slope from the total rise, with residential code checks and a diagram."
+      "description": "Risers, riser height, tread run, total run, stringer length and slope from the total rise, with residential code checks and a diagram.",
+      "url": "https://fence-calculator.correia95.workers.dev/stair-calculator/"
     },
     {
       "slug": "gear-ratio-calculator",
@@ -1178,7 +1235,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Road speed in every gear, engine RPM at a cruising speed, upshift RPM drop and a speed-vs-RPM chart from your transmission ratios, final drive and tyre size."
+      "description": "Road speed in every gear, engine RPM at a cruising speed, upshift RPM drop and a speed-vs-RPM chart from your transmission ratios, final drive and tyre size.",
+      "url": "https://tyre-size-calculator.correia95.workers.dev/gear-ratio-calculator/"
     },
     {
       "slug": "golf-handicap-calculator",
@@ -1196,7 +1254,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Add utm_source, utm_medium, utm_campaign and more to a link, with consistency checks, custom params and a live preview. Import an existing tagged URL to edit it."
+      "description": "Add utm_source, utm_medium, utm_campaign and more to a link, with consistency checks, custom params and a live preview. Import an existing tagged URL to edit it.",
+      "url": "https://meta-tags-generator.correia95.workers.dev/utm-builder/"
     },
     {
       "slug": "connect-four",
@@ -1214,7 +1273,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-09",
-      "description": "Screen pixels per inch from resolution and diagonal (dot pitch, megapixels, retina distance), plus print DPI, size and pixel-count conversions."
+      "description": "Screen pixels per inch from resolution and diagonal (dot pitch, megapixels, retina distance), plus print DPI, size and pixel-count conversions.",
+      "url": "https://aspect-ratio-calculator.correia95.workers.dev/ppi-calculator/"
     },
     {
       "slug": "resistor-color-code-calculator",
@@ -1223,7 +1283,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Decode a resistor from its colour bands or build the bands for a value — 3/4/5/6-band, tolerance, temperature coefficient, resistance range and nearest E24 value."
+      "description": "Decode a resistor from its colour bands or build the bands for a value — 3/4/5/6-band, tolerance, temperature coefficient, resistance range and nearest E24 value.",
+      "url": "https://ohms-law-calculator.correia95.workers.dev/resistor-color-code-calculator/"
     },
     {
       "slug": "ohms-law-calculator",
@@ -1241,7 +1302,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Series current-limiting resistor for an LED: value, power, wattage rating and nearest E24, for single, series and parallel LEDs."
+      "description": "Series current-limiting resistor for an LED: value, power, wattage rating and nearest E24, for single, series and parallel LEDs.",
+      "url": "https://ohms-law-calculator.correia95.workers.dev/led-resistor-calculator/"
     },
     {
       "slug": "macro-calculator",
@@ -1250,7 +1312,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Split a daily calorie target into protein, carb and fat grams by a preset ratio, custom split or protein-per-kg target, with per-meal numbers. Estimate only."
+      "description": "Split a daily calorie target into protein, carb and fat grams by a preset ratio, custom split or protein-per-kg target, with per-meal numbers. Estimate only.",
+      "url": "https://calorie-calculator.correia95.workers.dev/macro-calculator/"
     },
     {
       "slug": "scientific-notation-converter",
@@ -1259,7 +1322,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Convert a number between decimal, scientific, engineering and E-notation with SI prefix and order of magnitude, plus arithmetic in scientific notation."
+      "description": "Convert a number between decimal, scientific, engineering and E-notation with SI prefix and order of magnitude, plus arithmetic in scientific notation.",
+      "url": "https://scientific-calculator.correia95.workers.dev/scientific-notation-converter/"
     },
     {
       "slug": "sliding-puzzle",
@@ -1277,7 +1341,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Solve a right triangle from any two values — third side by the Pythagorean theorem, angles, area, perimeter, altitude, inradius and circumradius, with steps."
+      "description": "Solve a right triangle from any two values — third side by the Pythagorean theorem, angles, area, perimeter, altitude, inradius and circumradius, with steps.",
+      "url": "https://slope-calculator.correia95.workers.dev/right-triangle-calculator/"
     },
     {
       "slug": "circle-calculator",
@@ -1286,7 +1351,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Radius, diameter, circumference and area from any one value, plus arc length, sector area, chord and segment for a central angle."
+      "description": "Radius, diameter, circumference and area from any one value, plus arc length, sector area, chord and segment for a central angle.",
+      "url": "https://slope-calculator.correia95.workers.dev/circle-calculator/"
     },
     {
       "slug": "barcode-generator",
@@ -1295,7 +1361,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Generate a scannable EAN-13, EAN-8, UPC-A or Code 128 barcode with an automatic check digit; download as SVG or PNG, all client-side."
+      "description": "Generate a scannable EAN-13, EAN-8, UPC-A or Code 128 barcode with an automatic check digit; download as SVG or PNG, all client-side.",
+      "url": "https://qr-generator.correia95.workers.dev/barcode-generator/"
     },
     {
       "slug": "decision-matrix",
@@ -1313,7 +1380,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Monthly lease payment from MSRP, price, residual, term and money factor — with the depreciation/interest split and the total lease cost."
+      "description": "Monthly lease payment from MSRP, price, residual, term and money factor — with the depreciation/interest split and the total lease cost.",
+      "url": "https://car-loan-calculator.correia95.workers.dev/car-lease-calculator/"
     },
     {
       "slug": "standard-deviation-calculator",
@@ -1322,7 +1390,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Sample and population standard deviation and variance with the full step-by-step working, plus standard error, CV, quartiles and outliers."
+      "description": "Sample and population standard deviation and variance with the full step-by-step working, plus standard error, CV, quartiles and outliers.",
+      "url": "https://average-calculator.correia95.workers.dev/standard-deviation-calculator/"
     },
     {
       "slug": "mastermind-game",
@@ -1340,7 +1409,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Is a number prime? Exact check to 10^17 with prime factorization, next/previous prime, count of primes below it and prime families."
+      "description": "Is a number prime? Exact check to 10^17 with prime factorization, next/previous prime, count of primes below it and prime families.",
+      "url": "https://gcf-lcm-calculator.correia95.workers.dev/prime-number-checker/"
     },
     {
       "slug": "heart-rate-zone-calculator",
@@ -1349,7 +1419,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Max heart rate and the 5 training zones in bpm — percentage of max or the Karvonen method — from your age or a known max."
+      "description": "Max heart rate and the 5 training zones in bpm — percentage of max or the Karvonen method — from your age or a known max.",
+      "url": "https://running-pace-calculator.correia95.workers.dev/heart-rate-zone-calculator/"
     },
     {
       "slug": "http-status-codes",
@@ -1358,7 +1429,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "A searchable reference for every HTTP status code — what it means, when a server should return it, and the RFC that defines it."
+      "description": "A searchable reference for every HTTP status code — what it means, when a server should return it, and the RFC that defines it.",
+      "url": "https://subnet-calculator.correia95.workers.dev/http-status-codes/"
     },
     {
       "slug": "metronome",
@@ -1394,7 +1466,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "A healthy weight range for your height from the BMI 18.5–24.9 band, plus the Devine, Robinson, Miller and Hamwi clinical formulas, in kg or lb. Estimate only, not medical advice."
+      "description": "A healthy weight range for your height from the BMI 18.5–24.9 band, plus the Devine, Robinson, Miller and Hamwi clinical formulas, in kg or lb. Estimate only, not medical advice.",
+      "url": "https://bmi-calculator.correia95.workers.dev/ideal-weight-calculator/"
     },
     {
       "slug": "lights-out-game",
@@ -1412,7 +1485,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Paste text to get its Flesch Reading Ease and Flesch–Kincaid, Gunning Fog, SMOG, Coleman–Liau and ARI grade levels, plus word, sentence and syllable counts. Runs in your browser."
+      "description": "Paste text to get its Flesch Reading Ease and Flesch–Kincaid, Gunning Fog, SMOG, Coleman–Liau and ARI grade levels, plus word, sentence and syllable counts. Runs in your browser.",
+      "url": "https://word-counter.correia95.workers.dev/readability-calculator/"
     },
     {
       "slug": "combination-calculator",
@@ -1421,7 +1495,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Calculate combinations C(n,r) and permutations P(n,r), with or without repetition, with exact big-integer results, the formula, the substitution and an optional list of every outcome."
+      "description": "Calculate combinations C(n,r) and permutations P(n,r), with or without repetition, with exact big-integer results, the formula, the substitution and an optional list of every outcome.",
+      "url": "https://average-calculator.correia95.workers.dev/combination-calculator/"
     },
     {
       "slug": "molar-mass-calculator",
@@ -1448,7 +1523,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Convert fuel economy between mpg (US and imperial), litres per 100 km, km per litre and miles per litre — all at once, with a reference table and an optional yearly cost and CO2 estimate."
+      "description": "Convert fuel economy between mpg (US and imperial), litres per 100 km, km per litre and miles per litre — all at once, with a reference table and an optional yearly cost and CO2 estimate.",
+      "url": "https://fuel-cost-calculator.correia95.workers.dev/fuel-economy-converter/"
     },
     {
       "slug": "race-time-predictor",
@@ -1457,7 +1533,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Predict your race times for every distance from 1500 m to 50 km from one recent result, using Riegel’s formula, with the target pace and a confidence range."
+      "description": "Predict your race times for every distance from 1500 m to 50 km from one recent result, using Riegel’s formula, with the target pace and a confidence range.",
+      "url": "https://running-pace-calculator.correia95.workers.dev/race-time-predictor/"
     },
     {
       "slug": "debt-payoff-calculator",
@@ -1466,7 +1543,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "List your debts and an extra monthly payment to see your debt-free date and total interest, comparing the snowball and avalanche methods against paying only the minimums."
+      "description": "List your debts and an extra monthly payment to see your debt-free date and total interest, comparing the snowball and avalanche methods against paying only the minimums.",
+      "url": "https://budget-calculator.correia95.workers.dev/debt-payoff-calculator/"
     },
     {
       "slug": "words-to-time-calculator",
@@ -1475,7 +1553,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Find how long a speech or script takes to read aloud, and how many words fit a time slot, at any speaking pace. Paste text or enter a word count."
+      "description": "Find how long a speech or script takes to read aloud, and how many words fit a time slot, at any speaking pace. Paste text or enter a word count.",
+      "url": "https://word-counter.correia95.workers.dev/words-to-time-calculator/"
     },
     {
       "slug": "flood-it-game",
@@ -1493,7 +1572,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "AWG wire diameter, area, resistance and current rating for copper or aluminium, plus the voltage drop over a run and the smallest gauge that meets your current and drop limit."
+      "description": "AWG wire diameter, area, resistance and current rating for copper or aluminium, plus the voltage drop over a run and the smallest gauge that meets your current and drop limit.",
+      "url": "https://ohms-law-calculator.correia95.workers.dev/wire-gauge-calculator/"
     },
     {
       "slug": "interval-timer",
@@ -1502,7 +1582,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "A HIIT and Tabata interval timer — warm-up, work/rest rounds, sets with breaks and a cool-down, with audio cues and a big countdown. Works offline, keeps the screen awake."
+      "description": "A HIIT and Tabata interval timer — warm-up, work/rest rounds, sets with breaks and a cool-down, with audio cues and a big countdown. Works offline, keeps the screen awake.",
+      "url": "https://stopwatch.correia95.workers.dev/interval-timer/"
     },
     {
       "slug": "hourly-rate-calculator",
@@ -1511,7 +1592,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Work out the freelance or contractor hourly rate you need to charge from the income you want to keep, your business costs, your tax rate and your billable hours. Day and week rates plus a project quote."
+      "description": "Work out the freelance or contractor hourly rate you need to charge from the income you want to keep, your business costs, your tax rate and your billable hours. Day and week rates plus a project quote.",
+      "url": "https://hourly-to-salary.correia95.workers.dev/hourly-rate-calculator/"
     },
     {
       "slug": "zero-to-sixty-calculator",
@@ -1520,7 +1602,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Estimate a car’s 0-60 mph, 0-100 km/h and quarter-mile time and trap speed from its power and weight, using the Huntington and Fox drag-strip formulas plus a launch-adjusted model."
+      "description": "Estimate a car’s 0-60 mph, 0-100 km/h and quarter-mile time and trap speed from its power and weight, using the Huntington and Fox drag-strip formulas plus a launch-adjusted model.",
+      "url": "https://tyre-size-calculator.correia95.workers.dev/zero-to-sixty-calculator/"
     },
     {
       "slug": "peg-solitaire",
@@ -1547,7 +1630,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Paste a JSON sample and get a JSON Schema (draft 2020-12) — types, required properties, nested objects and arrays, formats and enums, inferred in your browser."
+      "description": "Paste a JSON sample and get a JSON Schema (draft 2020-12) — types, required properties, nested objects and arrays, formats and enums, inferred in your browser.",
+      "url": "https://json-formatter.correia95.workers.dev/json-schema-generator/"
     },
     {
       "slug": "roofing-calculator",
@@ -1556,7 +1640,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Estimate roof area, roofing squares, asphalt-shingle bundles, underlayment, ridge cap and nails from your building footprint and roof pitch, plus an optional cost."
+      "description": "Estimate roof area, roofing squares, asphalt-shingle bundles, underlayment, ridge cap and nails from your building footprint and roof pitch, plus an optional cost.",
+      "url": "https://fence-calculator.correia95.workers.dev/roofing-calculator/"
     },
     {
       "slug": "body-fat-calculator",
@@ -1565,7 +1650,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Estimate your body-fat percentage from height, neck and waist measurements (plus hip for women) using the U.S. Navy tape method, with a category, fat and lean mass. Estimate only, not medical advice."
+      "description": "Estimate your body-fat percentage from height, neck and waist measurements (plus hip for women) using the U.S. Navy tape method, with a category, fat and lean mass. Estimate only, not medical advice.",
+      "url": "https://bmi-calculator.correia95.workers.dev/body-fat-calculator/"
     },
     {
       "slug": "budget-calculator",
@@ -1592,7 +1678,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Encode and decode the Caesar shift, ROT13, Atbash and Vigenère ciphers, or brute-force every Caesar shift ranked by how English each result looks. Runs entirely in your browser."
+      "description": "Encode and decode the Caesar shift, ROT13, Atbash and Vigenère ciphers, or brute-force every Caesar shift ranked by how English each result looks. Runs entirely in your browser.",
+      "url": "https://morse-code-translator.correia95.workers.dev/caesar-cipher/"
     },
     {
       "slug": "pizza-dough-calculator",
@@ -1601,7 +1688,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Flour, water, salt, yeast and oil for any number of pizza dough balls, by baker's percentage. Hydration slider, style presets, yeast conversions and an optional poolish."
+      "description": "Flour, water, salt, yeast and oil for any number of pizza dough balls, by baker's percentage. Hydration slider, style presets, yeast conversions and an optional poolish.",
+      "url": "https://recipe-scaler.correia95.workers.dev/pizza-dough-calculator/"
     },
     {
       "slug": "due-date-calculator",
@@ -1628,7 +1716,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Your cat's age in human years and its life stage, using the AAHA / AAFP feline chart — about 15 for the first year, 24 by the second, then 4 a year. A guide, not veterinary advice."
+      "description": "Your cat's age in human years and its life stage, using the AAHA / AAFP feline chart — about 15 for the first year, 24 by the second, then 4 a year. A guide, not veterinary advice.",
+      "url": "https://dog-age-calculator.correia95.workers.dev/cat-age-calculator/"
     },
     {
       "slug": "card-number-validator",
@@ -1637,7 +1726,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Check a card number's Luhn checksum, length and network (Visa, Mastercard, Amex and more), or compute a Luhn check digit. Format check only, runs entirely in your browser."
+      "description": "Check a card number's Luhn checksum, length and network (Visa, Mastercard, Amex and more), or compute a Luhn check digit. Format check only, runs entirely in your browser.",
+      "url": "https://iban-validator.correia95.workers.dev/card-number-validator/"
     },
     {
       "slug": "nato-phonetic-alphabet",
@@ -1646,7 +1736,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-10",
-      "description": "Spell text out in Alfa, Bravo, Charlie and read code words back into text, with the full A–Z and 0–9 chart, radio digit words and spoken playback."
+      "description": "Spell text out in Alfa, Bravo, Charlie and read code words back into text, with the full A–Z and 0–9 chart, radio digit words and spoken playback.",
+      "url": "https://morse-code-translator.correia95.workers.dev/nato-phonetic-alphabet/"
     },
     {
       "slug": "firewood-calculator",
@@ -1664,7 +1755,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "How many rolls of wallpaper a room needs, accounting for the roll size, pattern repeat and match type, large openings and paste."
+      "description": "How many rolls of wallpaper a room needs, accounting for the roll size, pattern repeat and match type, large openings and paste.",
+      "url": "https://paint-calculator.correia95.workers.dev/wallpaper-calculator/"
     },
     {
       "slug": "ev-charging-cost-calculator",
@@ -1673,7 +1765,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "What it costs to charge and drive an electric car per trip, per full charge and per year — with charging losses, MPGe and a real petrol/diesel comparison."
+      "description": "What it costs to charge and drive an electric car per trip, per full charge and per year — with charging losses, MPGe and a real petrol/diesel comparison.",
+      "url": "https://fuel-cost-calculator.correia95.workers.dev/ev-charging-cost-calculator/"
     },
     {
       "slug": "bowling-score-calculator",
@@ -1700,7 +1793,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "See a colour palette or an uploaded image the way someone with protanopia, deuteranomaly, tritanopia or achromatopsia would see it. Client-side, nothing uploaded."
+      "description": "See a colour palette or an uploaded image the way someone with protanopia, deuteranomaly, tritanopia or achromatopsia would see it. Client-side, nothing uploaded.",
+      "url": "https://color-converter.correia95.workers.dev/color-blindness-simulator/"
     },
     {
       "slug": "iban-validator",
@@ -1718,7 +1812,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Convert between APR (nominal rate) and APY (effective annual rate) for any compounding frequency, in either direction, and compare two offers by their real effective yield."
+      "description": "Convert between APR (nominal rate) and APY (effective annual rate) for any compounding frequency, in either direction, and compare two offers by their real effective yield.",
+      "url": "https://compound-interest-calculator.correia95.workers.dev/apr-apy-converter/"
     },
     {
       "slug": "board-feet-calculator",
@@ -1727,7 +1822,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Lumber board footage from size, length and quantity, by nominal or actual (S4S) dimensions, with a cost estimate and a reference table of common sizes."
+      "description": "Lumber board footage from size, length and quantity, by nominal or actual (S4S) dimensions, with a cost estimate and a reference table of common sizes.",
+      "url": "https://fence-calculator.correia95.workers.dev/board-feet-calculator/"
     },
     {
       "slug": "chess-elo-calculator",
@@ -1745,7 +1841,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Waist-to-hip ratio and waist-to-height ratio with WHO and common screening risk bands, metric or imperial. A screening guide, not medical advice."
+      "description": "Waist-to-hip ratio and waist-to-height ratio with WHO and common screening risk bands, metric or imperial. A screening guide, not medical advice.",
+      "url": "https://bmi-calculator.correia95.workers.dev/waist-to-hip-ratio-calculator/"
     },
     {
       "slug": "sudoku-solver",
@@ -1754,7 +1851,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Type in or paste any 9x9 Sudoku puzzle and get the solution instantly, with live conflict detection and a check for whether the puzzle has a unique solution."
+      "description": "Type in or paste any 9x9 Sudoku puzzle and get the solution instantly, with live conflict detection and a check for whether the puzzle has a unique solution.",
+      "url": "https://daily-sudoku.correia95.workers.dev/sudoku-solver/"
     },
     {
       "slug": "business-days-calculator",
@@ -1763,7 +1861,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Count the working days between two dates, or add/subtract business days from a date, skipping weekends and any holidays you list. One click to prefill US federal holidays."
+      "description": "Count the working days between two dates, or add/subtract business days from a date, skipping weekends and any holidays you list. One click to prefill US federal holidays.",
+      "url": "https://date-calculator.correia95.workers.dev/business-days-calculator/"
     },
     {
       "slug": "rent-vs-buy-calculator",
@@ -1772,7 +1871,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Compares buying a home against renting and investing the difference, month by month, and shows which one builds more net worth over time, with a breakeven year."
+      "description": "Compares buying a home against renting and investing the difference, month by month, and shows which one builds more net worth over time, with a breakeven year.",
+      "url": "https://lvr-calculator.correia95.workers.dev/rent-vs-buy-calculator/"
     },
     {
       "slug": "net-worth-calculator",
@@ -1781,7 +1881,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "List what you own and what you owe, grouped by category, and see your net worth and how it breaks down."
+      "description": "List what you own and what you owe, grouped by category, and see your net worth and how it breaks down.",
+      "url": "https://budget-calculator.correia95.workers.dev/net-worth-calculator/"
     },
     {
       "slug": "isbn-validator",
@@ -1790,7 +1891,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Check an ISBN-10 or ISBN-13's checksum and convert between the two formats. Handles the ISBN-10 check digit X."
+      "description": "Check an ISBN-10 or ISBN-13's checksum and convert between the two formats. Handles the ISBN-10 check digit X.",
+      "url": "https://iban-validator.correia95.workers.dev/isbn-validator/"
     },
     {
       "slug": "sunrise-sunset-calculator",
@@ -1799,7 +1901,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Sunrise, sunset, solar noon and day length for any date and location, computed from the sun's actual position. Handles polar day and polar night."
+      "description": "Sunrise, sunset, solar noon and day length for any date and location, computed from the sun's actual position. Handles polar day and polar night.",
+      "url": "https://moon-phase-calculator.correia95.workers.dev/sunrise-sunset-calculator/"
     },
     {
       "slug": "vin-validator",
@@ -1808,7 +1911,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Check a Vehicle Identification Number's format and check digit, and decode its manufacturing region and candidate model years."
+      "description": "Check a Vehicle Identification Number's format and check digit, and decode its manufacturing region and candidate model years.",
+      "url": "https://iban-validator.correia95.workers.dev/vin-validator/"
     },
     {
       "slug": "matrix-calculator",
@@ -1817,7 +1921,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Add, subtract, multiply, transpose, or find the determinant and inverse of a matrix, up to 4x4."
+      "description": "Add, subtract, multiply, transpose, or find the determinant and inverse of a matrix, up to 4x4.",
+      "url": "https://quadratic-equation-solver.correia95.workers.dev/matrix-calculator/"
     },
     {
       "slug": "linear-equations-solver",
@@ -1826,7 +1931,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Solve a system of 2 or 3 linear equations for every variable at once, via Cramer's rule. Detects no-solution and infinite-solution cases."
+      "description": "Solve a system of 2 or 3 linear equations for every variable at once, via Cramer's rule. Detects no-solution and infinite-solution cases.",
+      "url": "https://quadratic-equation-solver.correia95.workers.dev/linear-equations-solver/"
     },
     {
       "slug": "flashcard-study",
@@ -1871,7 +1977,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Projects retirement savings growth to retirement, then simulates drawing them down to see how long the money actually lasts, with a 4% rule check."
+      "description": "Projects retirement savings growth to retirement, then simulates drawing them down to see how long the money actually lasts, with a 4% rule check.",
+      "url": "https://compound-interest-calculator.correia95.workers.dev/retirement-savings-calculator/"
     },
     {
       "slug": "braille-translator",
@@ -1880,7 +1987,8 @@
       "action": "Convert",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Convert English text to Grade 1 Braille and back, using the standard Unicode Braille patterns."
+      "description": "Convert English text to Grade 1 Braille and back, using the standard Unicode Braille patterns.",
+      "url": "https://morse-code-translator.correia95.workers.dev/braille-translator/"
     },
     {
       "slug": "tax-bracket-calculator",
@@ -1889,7 +1997,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "See marginal vs. effective tax rate with a full per-bracket breakdown. Every bracket is editable, with an illustrative example to start from."
+      "description": "See marginal vs. effective tax rate with a full per-bracket breakdown. Every bracket is editable, with an illustrative example to start from.",
+      "url": "https://salary-calculator-au.correia95.workers.dev/tax-bracket-calculator/"
     },
     {
       "slug": "poker-odds-calculator",
@@ -1907,7 +2016,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Compare your current mortgage to a refinance offer: new payment, breakeven month, and lifetime interest difference."
+      "description": "Compare your current mortgage to a refinance offer: new payment, breakeven month, and lifetime interest difference.",
+      "url": "https://lvr-calculator.correia95.workers.dev/mortgage-refinance-calculator/"
     },
     {
       "slug": "nonogram",
@@ -1952,7 +2062,8 @@
       "action": "Compare",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Compare two JSON documents by structure and value, not by line. Key order never counts as a difference."
+      "description": "Compare two JSON documents by structure and value, not by line. Key order never counts as a difference.",
+      "url": "https://json-formatter.correia95.workers.dev/json-diff-viewer/"
     },
     {
       "slug": "checkers",
@@ -1970,7 +2081,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Years until solar panels pay for themselves, accounting for panel degradation and rising electricity prices."
+      "description": "Years until solar panels pay for themselves, accounting for panel degradation and rising electricity prices.",
+      "url": "https://electricity-cost-calculator.correia95.workers.dev/solar-panel-payback-calculator/"
     },
     {
       "slug": "subscription-tracker",
@@ -1979,7 +2091,8 @@
       "action": "Track",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "See what your recurring subscriptions really cost per month and per year, plus upcoming renewals."
+      "description": "See what your recurring subscriptions really cost per month and per year, plus upcoming renewals.",
+      "url": "https://budget-calculator.correia95.workers.dev/subscription-tracker/"
     },
     {
       "slug": "insulation-r-value-calculator",
@@ -1988,7 +2101,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Stack insulation layers to see total R-value, and solve for the thickness needed to reach a target."
+      "description": "Stack insulation layers to see total R-value, and solve for the thickness needed to reach a target.",
+      "url": "https://electricity-cost-calculator.correia95.workers.dev/insulation-r-value-calculator/"
     },
     {
       "slug": "commute-cost-calculator",
@@ -1997,7 +2111,8 @@
       "action": "Compare",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Compare two commutes on annual cost, time, and — once you price your time — overall value."
+      "description": "Compare two commutes on annual cost, time, and — once you price your time — overall value.",
+      "url": "https://fuel-cost-calculator.correia95.workers.dev/commute-cost-calculator/"
     },
     {
       "slug": "curl-command-generator",
@@ -2006,7 +2121,8 @@
       "action": "Generate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Build a correctly-quoted curl command or fetch() snippet from a simple form."
+      "description": "Build a correctly-quoted curl command or fetch() snippet from a simple form.",
+      "url": "https://subnet-calculator.correia95.workers.dev/curl-command-generator/"
     },
     {
       "slug": "totp-generator",
@@ -2015,7 +2131,8 @@
       "action": "Generate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "RFC 6238 authenticator codes from a secret key. Nothing is saved or sent — no share link, by design."
+      "description": "RFC 6238 authenticator codes from a secret key. Nothing is saved or sent — no share link, by design.",
+      "url": "https://password-generator.correia95.workers.dev/totp-generator/"
     },
     {
       "slug": "othello",
@@ -2033,7 +2150,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Work out your target emergency fund from your own essential expenses, and when you'll reach it."
+      "description": "Work out your target emergency fund from your own essential expenses, and when you'll reach it.",
+      "url": "https://compound-interest-calculator.correia95.workers.dev/emergency-fund-calculator/"
     },
     {
       "slug": "break-even-calculator",
@@ -2042,7 +2160,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Find the units and revenue needed to cover your fixed costs, plus profit at any volume."
+      "description": "Find the units and revenue needed to cover your fixed costs, plus profit at any volume.",
+      "url": "https://ltv-cac-calculator.correia95.workers.dev/break-even-calculator/"
     },
     {
       "slug": "startup-runway-calculator",
@@ -2051,7 +2170,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "How many months of cash you have left at your burn rate, and what it'd take to extend it."
+      "description": "How many months of cash you have left at your burn rate, and what it'd take to extend it.",
+      "url": "https://ltv-cac-calculator.correia95.workers.dev/startup-runway-calculator/"
     },
     {
       "slug": "tournament-bracket-generator",
@@ -2060,7 +2180,8 @@
       "action": "Generate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Single-elimination brackets from a list of names, with automatic byes and click-to-advance winners."
+      "description": "Single-elimination brackets from a list of names, with automatic byes and click-to-advance winners.",
+      "url": "https://group-generator.correia95.workers.dev/tournament-bracket-generator/"
     },
     {
       "slug": "drywall-calculator",
@@ -2069,7 +2190,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Sheets, screws, and joint compound needed for a room, accounting for doors, windows and waste."
+      "description": "Sheets, screws, and joint compound needed for a room, accounting for doors, windows and waste.",
+      "url": "https://paint-calculator.correia95.workers.dev/drywall-calculator/"
     },
     {
       "slug": "group-expense-splitter",
@@ -2078,7 +2200,8 @@
       "action": "Open",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Track shared trip expenses paid by different people and see who owes whom, in the fewest payments."
+      "description": "Track shared trip expenses paid by different people and see who owes whom, in the fewest payments.",
+      "url": "https://bill-splitter.correia95.workers.dev/group-expense-splitter/"
     },
     {
       "slug": "paper-size-calculator",
@@ -2087,7 +2210,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "A-series and US paper dimensions in mm, inches and pixels at any DPI, plus how many fit inside."
+      "description": "A-series and US paper dimensions in mm, inches and pixels at any DPI, plus how many fit inside.",
+      "url": "https://aspect-ratio-calculator.correia95.workers.dev/paper-size-calculator/"
     },
     {
       "slug": "chinese-zodiac-calculator",
@@ -2096,7 +2220,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Your Chinese zodiac animal and element from your birth year, and your next zodiac year."
+      "description": "Your Chinese zodiac animal and element from your birth year, and your next zodiac year.",
+      "url": "https://zodiac-sign-calculator.correia95.workers.dev/chinese-zodiac-calculator/"
     },
     {
       "slug": "secret-santa-generator",
@@ -2105,7 +2230,8 @@
       "action": "Generate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Random gift-exchange pairings with exclusions (like couples), revealed one person at a time."
+      "description": "Random gift-exchange pairings with exclusions (like couples), revealed one person at a time.",
+      "url": "https://group-generator.correia95.workers.dev/secret-santa-generator/"
     },
     {
       "slug": "round-robin-scheduler",
@@ -2114,7 +2240,8 @@
       "action": "Generate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "A schedule where every participant plays every other exactly once, with automatic byes."
+      "description": "A schedule where every participant plays every other exactly once, with automatic byes.",
+      "url": "https://group-generator.correia95.workers.dev/round-robin-scheduler/"
     },
     {
       "slug": "ltv-cac-calculator",
@@ -2132,7 +2259,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "How much you need for financial independence, and when you'll get there."
+      "description": "How much you need for financial independence, and when you'll get there.",
+      "url": "https://compound-interest-calculator.correia95.workers.dev/fire-calculator/"
     },
     {
       "slug": "loan-amortization-calculator",
@@ -2141,7 +2269,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Full month-by-month loan payoff schedule and extra-payment savings."
+      "description": "Full month-by-month loan payoff schedule and extra-payment savings.",
+      "url": "https://loan-repayment-calculator.correia95.workers.dev/loan-amortization-calculator/"
     },
     {
       "slug": "appliance-energy-cost-calculator",
@@ -2150,7 +2279,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "What your appliances actually cost to run per day, month, and year."
+      "description": "What your appliances actually cost to run per day, month, and year.",
+      "url": "https://electricity-cost-calculator.correia95.workers.dev/appliance-energy-cost-calculator/"
     },
     {
       "slug": "overtime-pay-calculator",
@@ -2159,7 +2289,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Regular, overtime, and double-time pay split, plus your effective hourly rate."
+      "description": "Regular, overtime, and double-time pay split, plus your effective hourly rate.",
+      "url": "https://hourly-to-salary.correia95.workers.dev/overtime-pay-calculator/"
     },
     {
       "slug": "world-clock",
@@ -2177,7 +2308,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Front-end and back-end DTI ratio, the metrics lenders use to assess loans."
+      "description": "Front-end and back-end DTI ratio, the metrics lenders use to assess loans.",
+      "url": "https://lvr-calculator.correia95.workers.dev/debt-to-income-calculator/"
     },
     {
       "slug": "ab-test-calculator",
@@ -2186,7 +2318,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Two-proportion z-test: is your variant's lift real, or just noise?"
+      "description": "Two-proportion z-test: is your variant's lift real, or just noise?",
+      "url": "https://ltv-cac-calculator.correia95.workers.dev/ab-test-calculator/"
     },
     {
       "slug": "recipe-cost-calculator",
@@ -2195,7 +2328,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Cost per serving and a suggested menu price from your target food-cost %."
+      "description": "Cost per serving and a suggested menu price from your target food-cost %.",
+      "url": "https://recipe-scaler.correia95.workers.dev/recipe-cost-calculator/"
     },
     {
       "slug": "vesting-schedule-calculator",
@@ -2204,7 +2338,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "How many of your stock options or RSUs have vested, with a cliff and schedule."
+      "description": "How many of your stock options or RSUs have vested, with a cliff and schedule.",
+      "url": "https://equity-dilution-calculator.correia95.workers.dev/vesting-schedule-calculator/"
     },
     {
       "slug": "rent-proration-calculator",
@@ -2213,7 +2348,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Partial-month rent from actual days occupied, for move-ins and move-outs."
+      "description": "Partial-month rent from actual days occupied, for move-ins and move-outs.",
+      "url": "https://rental-yield-calculator.correia95.workers.dev/rent-proration-calculator/"
     },
     {
       "slug": "sales-commission-calculator",
@@ -2231,7 +2367,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Erg split, watts, and distance time — edit any one and the others update."
+      "description": "Erg split, watts, and distance time — edit any one and the others update.",
+      "url": "https://running-pace-calculator.correia95.workers.dev/rowing-pace-calculator/"
     },
     {
       "slug": "parking-pass-calculator",
@@ -2249,7 +2386,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "How much turf you need for a lawn, in rolls or pallets, with wastage and cost."
+      "description": "How much turf you need for a lawn, in rolls or pallets, with wastage and cost.",
+      "url": "https://gravel-calculator.correia95.workers.dev/sod-calculator/"
     },
     {
       "slug": "aircon-btu-calculator",
@@ -2258,7 +2396,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "What size air conditioner a room needs, from floor area and a few adjustments."
+      "description": "What size air conditioner a room needs, from floor area and a few adjustments.",
+      "url": "https://electricity-cost-calculator.correia95.workers.dev/aircon-btu-calculator/"
     },
     {
       "slug": "braking-distance-calculator",
@@ -2267,7 +2406,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Reaction distance, braking distance, and total stopping distance from speed and road conditions."
+      "description": "Reaction distance, braking distance, and total stopping distance from speed and road conditions.",
+      "url": "https://tyre-size-calculator.correia95.workers.dev/braking-distance-calculator/"
     },
     {
       "slug": "churn-rate-calculator",
@@ -2276,7 +2416,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Customer churn, gross/net revenue churn, retention rate, and average customer lifetime."
+      "description": "Customer churn, gross/net revenue churn, retention rate, and average customer lifetime.",
+      "url": "https://ltv-cac-calculator.correia95.workers.dev/churn-rate-calculator/"
     },
     {
       "slug": "payback-period-calculator",
@@ -2285,7 +2426,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Simple and discounted payback period for a capital investment with uneven cash flows."
+      "description": "Simple and discounted payback period for a capital investment with uneven cash flows.",
+      "url": "https://ltv-cac-calculator.correia95.workers.dev/payback-period-calculator/"
     },
     {
       "slug": "paver-calculator",
@@ -2294,7 +2436,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "How many pavers and how much base material you need for a patio or walkway."
+      "description": "How many pavers and how much base material you need for a patio or walkway.",
+      "url": "https://gravel-calculator.correia95.workers.dev/paver-calculator/"
     },
     {
       "slug": "roas-calculator",
@@ -2303,7 +2446,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Return on ad spend vs. the break-even ROAS your margin requires, plus profit."
+      "description": "Return on ad spend vs. the break-even ROAS your margin requires, plus profit.",
+      "url": "https://ltv-cac-calculator.correia95.workers.dev/roas-calculator/"
     },
     {
       "slug": "tip-pool-calculator",
@@ -2312,7 +2456,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Split a pooled tip amount among staff by hours worked and role weight."
+      "description": "Split a pooled tip amount among staff by hours worked and role weight.",
+      "url": "https://bill-splitter.correia95.workers.dev/tip-pool-calculator/"
     },
     {
       "slug": "incline-calculator",
@@ -2321,7 +2466,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Grade %, degrees, and rise:run ratio — edit any one and the others update."
+      "description": "Grade %, degrees, and rise:run ratio — edit any one and the others update.",
+      "url": "https://slope-calculator.correia95.workers.dev/incline-calculator/"
     },
     {
       "slug": "tire-tread-calculator",
@@ -2330,7 +2476,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Estimate remaining tire life in miles from tread depth measurements."
+      "description": "Estimate remaining tire life in miles from tread depth measurements.",
+      "url": "https://tyre-size-calculator.correia95.workers.dev/tire-tread-calculator/"
     },
     {
       "slug": "swim-pace-calculator",
@@ -2339,7 +2486,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-16",
-      "description": "Pace per 100m/100yd and distance time — edit any one and the others update."
+      "description": "Pace per 100m/100yd and distance time — edit any one and the others update.",
+      "url": "https://running-pace-calculator.correia95.workers.dev/swim-pace-calculator/"
     },
     {
       "slug": "zodiac-sign-calculator",
@@ -2366,7 +2514,8 @@
       "action": "Compare",
       "featured": false,
       "launched": "2026-09-17",
-      "description": "Total cash cost of leasing vs. buying the same car over the same period."
+      "description": "Total cash cost of leasing vs. buying the same car over the same period.",
+      "url": "https://car-loan-calculator.correia95.workers.dev/car-lease-vs-buy-calculator/"
     },
     {
       "slug": "birthday-paradox-calculator",
@@ -2375,7 +2524,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-17",
-      "description": "The surprisingly high probability that two people in a group share a birthday."
+      "description": "The surprisingly high probability that two people in a group share a birthday.",
+      "url": "https://average-calculator.correia95.workers.dev/birthday-paradox-calculator/"
     },
     {
       "slug": "invoice-late-fee-calculator",
@@ -2384,7 +2534,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-17",
-      "description": "Late fee and total due on an overdue invoice, from an annual rate and grace period."
+      "description": "Late fee and total due on an overdue invoice, from an annual rate and grace period.",
+      "url": "https://invoice-generator.correia95.workers.dev/invoice-late-fee-calculator/"
     },
     {
       "slug": "cycling-speed-calculator",
@@ -2393,7 +2544,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-17",
-      "description": "Solve for cycling speed, distance, or time, given the other two."
+      "description": "Solve for cycling speed, distance, or time, given the other two.",
+      "url": "https://running-pace-calculator.correia95.workers.dev/cycling-speed-calculator/"
     },
     {
       "slug": "fuel-range-calculator",
@@ -2402,7 +2554,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-17",
-      "description": "How far you can drive from tank size, current fuel level, and fuel economy."
+      "description": "How far you can drive from tank size, current fuel level, and fuel economy.",
+      "url": "https://fuel-cost-calculator.correia95.workers.dev/fuel-range-calculator/"
     },
     {
       "slug": "image-cropper",
@@ -2411,7 +2564,8 @@
       "action": "Crop",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Crop a photo to any size or aspect ratio — drag to reposition, drag a handle to resize. Nothing is uploaded."
+      "description": "Crop a photo to any size or aspect ratio — drag to reposition, drag a handle to resize. Nothing is uploaded.",
+      "url": "https://image-resizer.correia95.workers.dev/image-cropper/"
     },
     {
       "slug": "image-metadata-viewer",
@@ -2420,7 +2574,8 @@
       "action": "Inspect",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "File info and EXIF data for a photo — camera, date taken, exposure, ISO and GPS if present. Nothing is uploaded."
+      "description": "File info and EXIF data for a photo — camera, date taken, exposure, ISO and GPS if present. Nothing is uploaded.",
+      "url": "https://image-resizer.correia95.workers.dev/image-metadata-viewer/"
     },
     {
       "slug": "audio-duration-calculator",
@@ -2429,7 +2584,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Total and per-file runtime for one or many audio files — handy for a podcast or checking clips fit a time limit. Nothing is uploaded."
+      "description": "Total and per-file runtime for one or many audio files — handy for a podcast or checking clips fit a time limit. Nothing is uploaded.",
+      "url": "https://audio-trimmer.correia95.workers.dev/audio-duration-calculator/"
     },
     {
       "slug": "audio-trimmer",
@@ -2447,7 +2603,8 @@
       "action": "Change",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Speed up or slow down an audio file, 0.25x to 3x — like a tape or turntable. Preview and download. Nothing is uploaded."
+      "description": "Speed up or slow down an audio file, 0.25x to 3x — like a tape or turntable. Preview and download. Nothing is uploaded.",
+      "url": "https://audio-trimmer.correia95.workers.dev/audio-speed-changer/"
     },
     {
       "slug": "video-metadata-viewer",
@@ -2456,7 +2613,8 @@
       "action": "Inspect",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "File info for a video — duration, resolution, aspect ratio, container format and an estimated bitrate. Nothing is uploaded."
+      "description": "File info for a video — duration, resolution, aspect ratio, container format and an estimated bitrate. Nothing is uploaded.",
+      "url": "https://video-trimmer.correia95.workers.dev/video-metadata-viewer/"
     },
     {
       "slug": "video-frame-grabber",
@@ -2465,7 +2623,8 @@
       "action": "Grab",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Scrub to any moment in a video and save that exact frame as a PNG or JPEG, at full resolution. Nothing is uploaded."
+      "description": "Scrub to any moment in a video and save that exact frame as a PNG or JPEG, at full resolution. Nothing is uploaded.",
+      "url": "https://video-trimmer.correia95.workers.dev/video-frame-grabber/"
     },
     {
       "slug": "mute-video",
@@ -2474,7 +2633,8 @@
       "action": "Mute",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Remove the audio track from a video and download a silent version. Nothing is uploaded."
+      "description": "Remove the audio track from a video and download a silent version. Nothing is uploaded.",
+      "url": "https://video-trimmer.correia95.workers.dev/mute-video/"
     },
     {
       "slug": "images-to-pdf",
@@ -2483,7 +2643,8 @@
       "action": "Combine",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Combine JPG and PNG images into one PDF — drag to reorder, choose page size and margins. Nothing is uploaded."
+      "description": "Combine JPG and PNG images into one PDF — drag to reorder, choose page size and margins. Nothing is uploaded.",
+      "url": "https://merge-pdf.correia95.workers.dev/images-to-pdf/"
     },
     {
       "slug": "merge-pdf",
@@ -2501,7 +2662,8 @@
       "action": "Organize",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Reorder, rotate, remove or extract pages from a PDF — drag thumbnails, click to exclude, then save. Nothing is uploaded."
+      "description": "Reorder, rotate, remove or extract pages from a PDF — drag thumbnails, click to exclude, then save. Nothing is uploaded.",
+      "url": "https://merge-pdf.correia95.workers.dev/pdf-page-organizer/"
     },
     {
       "slug": "pdf-metadata-viewer",
@@ -2510,7 +2672,8 @@
       "action": "Inspect",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Title, author, page count, page size and file size for a PDF. Nothing is uploaded."
+      "description": "Title, author, page count, page size and file size for a PDF. Nothing is uploaded.",
+      "url": "https://merge-pdf.correia95.workers.dev/pdf-metadata-viewer/"
     },
     {
       "slug": "pdf-page-numbers",
@@ -2519,7 +2682,8 @@
       "action": "Number",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Add page numbers to a PDF — position, format and starting number. Nothing is uploaded."
+      "description": "Add page numbers to a PDF — position, format and starting number. Nothing is uploaded.",
+      "url": "https://merge-pdf.correia95.workers.dev/pdf-page-numbers/"
     },
     {
       "slug": "pdf-to-images",
@@ -2528,7 +2692,8 @@
       "action": "Export",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Export every page of a PDF as a JPG or PNG at 96/150/300 DPI. Nothing is uploaded."
+      "description": "Export every page of a PDF as a JPG or PNG at 96/150/300 DPI. Nothing is uploaded.",
+      "url": "https://merge-pdf.correia95.workers.dev/pdf-to-images/"
     },
     {
       "slug": "pdf-to-text",
@@ -2537,7 +2702,8 @@
       "action": "Extract",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Extract the text from a PDF — copy it or download as a .txt file. Nothing is uploaded."
+      "description": "Extract the text from a PDF — copy it or download as a .txt file. Nothing is uploaded.",
+      "url": "https://merge-pdf.correia95.workers.dev/pdf-to-text/"
     },
     {
       "slug": "compress-pdf",
@@ -2546,7 +2712,8 @@
       "action": "Compress",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Shrink a PDF by recompressing its embedded JPEG images — shows the real before/after size, honestly. Nothing is uploaded."
+      "description": "Shrink a PDF by recompressing its embedded JPEG images — shows the real before/after size, honestly. Nothing is uploaded.",
+      "url": "https://merge-pdf.correia95.workers.dev/compress-pdf/"
     },
     {
       "slug": "video-to-audio",
@@ -2555,7 +2722,8 @@
       "action": "Extract",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Extract the audio track from a video as a WAV file. Nothing is uploaded."
+      "description": "Extract the audio track from a video as a WAV file. Nothing is uploaded.",
+      "url": "https://video-trimmer.correia95.workers.dev/video-to-audio/"
     },
     {
       "slug": "abn-validator",
@@ -2564,7 +2732,8 @@
       "action": "Check",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Check whether an Australian Business Number is valid using the ATO checksum algorithm. No lookup, runs in your browser."
+      "description": "Check whether an Australian Business Number is valid using the ATO checksum algorithm. No lookup, runs in your browser.",
+      "url": "https://iban-validator.correia95.workers.dev/abn-validator/"
     },
     {
       "slug": "bsb-formatter",
@@ -2573,7 +2742,8 @@
       "action": "Check",
       "featured": false,
       "launched": "2026-09-18",
-      "description": "Format an Australian BSB and identify the big-four banks' known prefixes. No lookup, runs in your browser."
+      "description": "Format an Australian BSB and identify the big-four banks' known prefixes. No lookup, runs in your browser.",
+      "url": "https://iban-validator.correia95.workers.dev/bsb-formatter/"
     },
     {
       "slug": "lvr-calculator",
@@ -2591,7 +2761,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-19",
-      "description": "Estimate roughly how much a lender might let you borrow, from your income, expenses, debts and interest rate."
+      "description": "Estimate roughly how much a lender might let you borrow, from your income, expenses, debts and interest rate.",
+      "url": "https://lvr-calculator.correia95.workers.dev/borrowing-power-calculator/"
     },
     {
       "slug": "property-deposit-calculator",
@@ -2600,7 +2771,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-19",
-      "description": "Work out how long it'll take to save a house deposit, or the monthly contribution needed to reach it."
+      "description": "Work out how long it'll take to save a house deposit, or the monthly contribution needed to reach it.",
+      "url": "https://lvr-calculator.correia95.workers.dev/property-deposit-calculator/"
     },
     {
       "slug": "brick-calculator",
@@ -2609,7 +2781,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-19",
-      "description": "How many bricks and mortar bags you need for a wall, from its size and brick dimensions."
+      "description": "How many bricks and mortar bags you need for a wall, from its size and brick dimensions.",
+      "url": "https://fence-calculator.correia95.workers.dev/brick-calculator/"
     },
     {
       "slug": "decking-calculator",
@@ -2618,7 +2791,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-19",
-      "description": "Boards, joists and screws needed for a timber deck, from its size and board spacing."
+      "description": "Boards, joists and screws needed for a timber deck, from its size and board spacing.",
+      "url": "https://fence-calculator.correia95.workers.dev/decking-calculator/"
     },
     {
       "slug": "linear-to-square-metres-calculator",
@@ -2627,7 +2801,8 @@
       "action": "Convert",
       "featured": false,
       "launched": "2026-09-21",
-      "description": "Convert linear metres to square metres and price per linear metre to price per m² for fixed-width materials."
+      "description": "Convert linear metres to square metres and price per linear metre to price per m² for fixed-width materials.",
+      "url": "https://fence-calculator.correia95.workers.dev/linear-to-square-metres-calculator/"
     },
     {
       "slug": "car-running-cost-calculator",
@@ -2636,7 +2811,8 @@
       "action": "Calculate",
       "featured": false,
       "launched": "2026-09-21",
-      "description": "What a car really costs per week, month, year and km — fuel, depreciation, insurance, rego, servicing and more."
+      "description": "What a car really costs per week, month, year and km — fuel, depreciation, insurance, rego, servicing and more.",
+      "url": "https://fuel-cost-calculator.correia95.workers.dev/car-running-cost-calculator/"
     },
     {
       "slug": "video-to-gif",
@@ -2645,7 +2821,8 @@
       "action": "Convert",
       "featured": false,
       "launched": "2026-09-21",
-      "description": "Turn part of a video into an animated GIF — pick the start, length, frame rate and width. Nothing is uploaded."
+      "description": "Turn part of a video into an animated GIF — pick the start, length, frame rate and width. Nothing is uploaded.",
+      "url": "https://video-trimmer.correia95.workers.dev/video-to-gif/"
     },
     {
       "slug": "video-trimmer",

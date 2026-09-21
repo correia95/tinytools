@@ -10,6 +10,7 @@ interface AppEntry {
   featured: boolean;
   launched: string;
   description: string;
+  url?: string; // set when the app now lives inside a suite Worker at /<slug>/
 }
 
 const APPS = (registry.apps as AppEntry[]).slice().sort((a, b) => b.launched.localeCompare(a.launched));
@@ -52,7 +53,7 @@ const PAGE_SIZE = 30;
 
 function Card({ app }: { app: AppEntry }) {
   return (
-    <a className="card" href={appUrl(app.slug)}>
+    <a className="card" href={app.url ?? appUrl(app.slug)}>
       <div className="card-top">
         <span className="card-ic" aria-hidden="true">{ICONS[app.category] ?? '✨'}</span>
         <span className="card-cat">{labelFor(app.category)}</span>
