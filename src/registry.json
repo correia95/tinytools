@@ -2646,6 +2646,15 @@
       "featured": false,
       "launched": "2026-09-21",
       "description": "Turn part of a video into an animated GIF — pick the start, length, frame rate and width. Nothing is uploaded."
+    },
+    {
+      "slug": "video-trimmer",
+      "name": "Video Trimmer",
+      "category": "Tools",
+      "action": "Trim",
+      "featured": false,
+      "launched": "2026-09-21",
+      "description": "Cut a clip out of a video with its sound — pick the start and end, export a WebM. Nothing is uploaded."
     }
   ]
 }
